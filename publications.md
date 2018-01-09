@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Publications
+permalink: /publications/
 ---
 
 Dr. Vikas Chandra works as a Senior Principal Engineer in the core ML technology team at Arm. He leads a team
