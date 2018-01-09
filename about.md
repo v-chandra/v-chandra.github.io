@@ -15,5 +15,4 @@ to system aware optimized neural network architecture.
 Dr. Chandra has authored 60+ research publications and is an inventor on 30+ US and international patents.
 
 ### Contact me
-
 [vchandra@alumni.cmu.edu](mailto:vchandra@alumni.cmu.edu)
