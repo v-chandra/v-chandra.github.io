@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Vikas Chandra leads a team of researchers 
 Dr. Vikas Chandra works as a Senior Principal Engineer in the core ML technology team at Arm. He leads a team
 of researchers exploring efficient machine learning and deep learning solutions for computer vision and 
 speech, targeted for always-on IoT edge devices. A significant proportion of ML computation is currently 
