@@ -22,6 +22,4 @@ permalink: /publications/
 1. PrivyNet: A Flexible Framework for Privacy-Preserving Deep Neural Network Training.
 *arXiv (2017)*. [PDF](https://arxiv.org/abs/1709.06161).
 
-### Contact me
-
-[Email](mailto:vchandra@alumni.cmu.edu)
+## [Contact me](mailto:vchandra@alumni.cmu.edu)
