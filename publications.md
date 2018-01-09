@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 1. CMSIS-NN: Efficient Neural Network Kernels for Arm Cortex-M CPUs.
+*To appear soon*.
+
+1. Not All Ops are Created Equal!
+*Submitted to SysML 2018*.
 
 1. Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks. 
 *arXiv (2017)*. [PDF](https://arxiv.org/abs/1712.01507).
