@@ -1,6 +1,4 @@
 ---
 layout: post
-title: Hi World!
+title: Coming soon!
 ---
-
-Nothing here yet!
