@@ -12,7 +12,13 @@ implications in areas such as self driving cars, wearables, healthcare and so on
 he is working on a variety of topics ranging from optimized ML kernels to energy efficient accelerators 
 to system aware optimized neural network architecture. 
 
-Dr. Chandra has authored 60+ research publications and is an inventor on 30+ US and international patents.
+Dr. Chandra received his Ph.D. and M.S. degrees in Electrical and Computer Engineering from Carnegie 
+Mellon University (CMU). He held the positions of Visiting Scholar (2011 – 2014) and Visiting 
+Faculty (2016 - 2017) in the EE department at Stanford University.  He has authored 60+ research 
+publications and is an inventor on 30+ US and international patents. Dr. Chandra received the 
+ACM-SIGDA Technical Leadership Award in 2009 and was Invited to the 2017 Frontiers of 
+Engineering Symposium organized by the National Academy of Engineering. He is a senior member
+of IEEE.
 
 ### Contact me
 [vchandra@alumni.cmu.edu](mailto:vchandra@alumni.cmu.edu)
