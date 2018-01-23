@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 1. CMSIS-NN: Efficient Neural Network Kernels for Arm Cortex-M CPUs.
-*To appear soon*.
+*arXiv (2018)*. [Paper](https://arxiv.org/abs/1801.06601).
 
 1. Not All Ops are Created Equal!
 *arXiv (2018)*. [Paper](https://arxiv.org/abs/1801.04326).
