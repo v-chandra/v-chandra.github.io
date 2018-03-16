@@ -14,7 +14,7 @@ permalink: /publications/
 *arXiv (2018)*. [Paper](https://arxiv.org/abs/1709.06161).
 
 1. Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural 
-Networks (to appear at ISCA 2018). 
+Networks (*to appear at ISCA 2018*). 
 *arXiv (2017)*. [Paper](https://arxiv.org/abs/1712.01507).
 
 1. Hello Edge: Keyword Spotting on Microcontrollers. 
