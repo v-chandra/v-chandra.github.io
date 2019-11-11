@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Vikas Chandra is a Director, AI at Facebook and leads an On-device AI research 
+Vikas Chandra is a Director of AI at Facebook and leads an On-device AI research 
 team in the AR/VR group focusing on vision and speech/NLU applications.
 A significant proportion of ML computation is currently 
 centralized but the future is going to be dominated by ML at the edge. This will have wide ranging 
