@@ -29,7 +29,7 @@ permalink: /publications/
 *International Symposium on Computer Architecture, 2018*, [Paper](https://arxiv.org/abs/1712.01507).
 
 1. Hello Edge: Keyword Spotting on Microcontrollers, 
-*arXiv(2017)*. [Paper](https://arxiv.org/abs/1711.07128).
+*arXiv (2017)*. [Paper](https://arxiv.org/abs/1711.07128).
 
 1. Deep Convolutional Neural Network Inference with Floating-point Weights and Fixed-point Activations,
 *arXiv (2017)*. [Paper](https://arxiv.org/abs/1703.03073).
