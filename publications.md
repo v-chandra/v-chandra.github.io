@@ -4,6 +4,9 @@ title: Selected Recent Publications
 permalink: /publications/
 ---
 
+1. RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing,
+*arXiv (2019)*. [Paper](https://arxiv.org/pdf/1912.12953.pdf).
+
 1. Energy-Aware Neural Architecture Optimization With Splitting Steepest Descent, 
 *Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [Paper](https://arxiv.org/pdf/1910.03103.pdf).
 
