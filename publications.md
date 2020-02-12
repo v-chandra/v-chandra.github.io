@@ -4,7 +4,7 @@ title: Selected Recent Publications
 permalink: /publications/
 ---
 1. Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator 
-Designs Targeting Multiple Tasks
+Designs Targeting Multiple Tasks,
 *arXiv (2020)*. [Paper](https://arxiv.org/pdf/2002.04116.pdf).
 
 1. RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing,
