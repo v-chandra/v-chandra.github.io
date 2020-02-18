@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I lead the on-device AI research team in the AR/VR group focusing on vision and speech/NLU 
+I lead the on-device AI research team in the AR/VR group at Facebook, focusing on vision and speech/NLU 
 applications. My research interests include all aspects of HW/SW co-design for efficient on-device AI.
 
 I received a PhD in Computer Engineering from Carnegie Mellon University in 2004. I have held the 
