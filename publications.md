@@ -14,7 +14,7 @@ Designs Targeting Multiple Tasks,
 *Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [Paper](https://arxiv.org/pdf/1910.03103.pdf).
 
 1. Improving Efficiency in Neural Network Accelerator using Operands Hamming Distance Optimization,
-*Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [Paper](https://www.emc2-workshop.com/assets/docs/neurips-19/emc2-paper-30.pdf).
+*Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [Paper](https://arxiv.org/pdf/2002.05293.pdf).
 
 1. HERALD: Optimizing Heterogeneous DNN Accelerators for Edge Devices,
 *arXiv (2019)*. [Paper](https://arxiv.org/pdf/1909.07437.pdf).
