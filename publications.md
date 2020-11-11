@@ -3,6 +3,9 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. One weight bitwidth to rule them all
+*arXiv (2020)*. [Paper](https://arxiv.org/pdf/2008.09916.pdf).
+
 1. Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator 
 Designs Targeting Multiple Tasks,
 *arXiv (2020)*. [Paper](https://arxiv.org/pdf/2002.04116.pdf).
