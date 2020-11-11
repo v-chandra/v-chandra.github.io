@@ -11,14 +11,14 @@ permalink: /publications/
 *arXiv (2020)*. [Paper](https://arxiv.org/pdf/2010.14778.pdf).
 
 1. One weight bitwidth to rule them all,
-*arXiv (2020)*. [Paper](https://arxiv.org/pdf/2008.09916.pdf).
+*Embedded Vision Workshop, ECCV 2020*. [Paper](https://arxiv.org/pdf/2008.09916.pdf).
 
 1. Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator 
 Designs Targeting Multiple Tasks,
-*arXiv (2020)*. [Paper](https://arxiv.org/pdf/2002.04116.pdf).
+*DAC 2020*. [Paper](https://arxiv.org/pdf/2002.04116.pdf).
 
 1. RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing,
-*arXiv (2019)*. [Paper](https://arxiv.org/pdf/1912.12953.pdf).
+*ISCA 2020*. [Paper](https://arxiv.org/pdf/1912.12953.pdf).
 
 1. Energy-Aware Neural Architecture Optimization With Splitting Steepest Descent, 
 *Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [Paper](https://arxiv.org/pdf/1910.03103.pdf).
