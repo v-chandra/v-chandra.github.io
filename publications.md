@@ -7,7 +7,7 @@ permalink: /publications/
 1. DNA: Differentiable Network-Accelerator Co-Search
 *arXiv (2020)*. [Paper](https://arxiv.org/pdf/2010.14778.pdf).
 
-1. Nasgem: Neural architecture search via graph embedding method
+1. NASGEM: Neural architecture search via graph embedding method
 *arXiv (2020)*. [Paper](https://arxiv.org/pdf/2007.04452.pdf).
 
 1. One weight bitwidth to rule them all
