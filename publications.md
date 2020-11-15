@@ -5,32 +5,32 @@ permalink: /publications/
 ---
 
 1. NASGEM: Neural architecture search via graph embedding method,
-*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
+*arXiv (2020)*. [[PDF]](https://arxiv.org/abs/2007.04452)
 
 1. DNA: Differentiable Network-Accelerator Co-Search,
-*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2010.14778.pdf)
+*arXiv (2020)*. [[PDF]](https://arxiv.org/abs/2010.14778)
 
 1. One weight bitwidth to rule them all,
-*Embedded Vision Workshop, ECCV 2020*. [[PDF]](https://arxiv.org/pdf/2008.09916.pdf)
+*Embedded Vision Workshop, ECCV 2020*. [[PDF]](https://arxiv.org/abs/2008.09916)
 
 1. Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator 
 Designs Targeting Multiple Tasks,
-*DAC 2020*. [[PDF]](https://arxiv.org/pdf/2002.04116.pdf)
+*DAC 2020*. [[PDF]](https://arxiv.org/abs/2002.04116)
 
 1. RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing,
-*ISCA 2020*. [[PDF]](https://arxiv.org/pdf/1912.12953.pdf)
+*ISCA 2020*. [[PDF]](https://arxiv.org/abs/1912.12953)
 
 1. Energy-Aware Neural Architecture Optimization With Splitting Steepest Descent, 
-*Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [[PDF]](https://arxiv.org/pdf/1910.03103.pdf)
+*Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [[PDF]](https://arxiv.org/abs/1910.03103)
 
 1. Improving Efficiency in Neural Network Accelerator using Operands Hamming Distance Optimization,
-*Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [[PDF]](https://arxiv.org/pdf/2002.05293.pdf)
+*Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [[PDF]](https://arxiv.org/abs/2002.05293)
 
 1. HERALD: Optimizing Heterogeneous DNN Accelerators for Edge Devices,
-*arXiv (2019)*. [[PDF]](https://arxiv.org/pdf/1909.07437.pdf)
+*arXiv (2019)*. [[PDF]](https://arxiv.org/abs/1909.07437)
 
 1. Federated learning with non-iid data,
-*arXiv (2018)*. [[PDF]](https://arxiv.org/pdf/1806.00582.pdf)
+*arXiv (2018)*. [[PDF]](https://arxiv.org/abs/1806.00582)
 
 1. CMSIS-NN: Efficient Neural Network Kernels for Arm Cortex-M CPUs,
 *arXiv (2018)*. [[PDF]](https://arxiv.org/abs/1801.06601)
