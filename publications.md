@@ -4,6 +4,9 @@ title: Selected Recent Publications
 permalink: /publications/
 ---
 
+1. AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling,
+*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.09011.pdf)
+
 1. NASGEM: Neural architecture search via graph embedding method,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
 
