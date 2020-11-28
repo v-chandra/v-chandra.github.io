@@ -4,6 +4,9 @@ title: Selected Recent Publications
 permalink: /publications/
 ---
 
+1. KeepAugment: A Simple Information-Preserving Data Augmentation Approach,
+*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.11778.pdf)
+
 1. AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.09011.pdf)
 
