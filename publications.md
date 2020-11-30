@@ -38,7 +38,7 @@ Designs Targeting Multiple Tasks,
 1. HERALD: Optimizing Heterogeneous DNN Accelerators for Edge Devices,
 *arXiv (2019)*. [[PDF]](https://arxiv.org/pdf/1909.07437.pdf)
 
-1. Federated learning with non-iid data,
+1. Federated Learning with Non-IID Data,
 *arXiv (2018)*. [[PDF]](https://arxiv.org/pdf/1806.00582.pdf)
 
 1. CMSIS-NN: Efficient Neural Network Kernels for Arm Cortex-M CPUs,
