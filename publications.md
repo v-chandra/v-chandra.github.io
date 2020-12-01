@@ -4,6 +4,10 @@ title: Selected Recent Publications
 permalink: /publications/
 ---
 
+1. ScaleNAS: One-Shot Learning of Scale-Aware Representations for
+Visual Recognition,
+*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.14584.pdf)
+
 1. AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.09011.pdf)
 
