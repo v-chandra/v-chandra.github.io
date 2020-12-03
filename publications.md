@@ -4,6 +4,9 @@ title: Selected Recent Publications
 permalink: /publications/
 ---
 
+1. NASGEM: Neural architecture search via graph embedding method,
+*AAAI 2021*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
+
 1. ScaleNAS: One-Shot Learning of Scale-Aware Representations for
 Visual Recognition,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.14584.pdf)
@@ -18,7 +21,7 @@ Visual Recognition,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.11778.pdf)
 
 1. NASGEM: Neural architecture search via graph embedding method,
-*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
+*AAAI 2021*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
 
 1. DNA: Differentiable Network-Accelerator Co-Search,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2010.14778.pdf)
