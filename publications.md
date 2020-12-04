@@ -20,9 +20,6 @@ Visual Recognition,
 1. KeepAugment: A Simple Information-Preserving Data Augmentation Approach,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.11778.pdf)
 
-1. NASGEM: Neural architecture search via graph embedding method,
-*AAAI 2021*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
-
 1. DNA: Differentiable Network-Accelerator Co-Search,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2010.14778.pdf)
 
