@@ -7,6 +7,9 @@ permalink: /publications/
 1. NASGEM: Neural architecture search via graph embedding method,
 *AAAI 2021*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
 
+1. EVRNet: Efficient Video Restoration on Edge Devices,
+*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
+
 1. ScaleNAS: One-Shot Learning of Scale-Aware Representations for
 Visual Recognition,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.14584.pdf)
