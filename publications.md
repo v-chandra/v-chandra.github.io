@@ -7,6 +7,9 @@ permalink: /publications/
 1. NASGEM: Neural architecture search via graph embedding method,
 *AAAI 2021*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
 
+1. Heterogeneous Dataflow Accelerators for Multi-DNN Workloads,
+*HPCA 2021*. [[PDF]](https://arxiv.org/pdf/1909.07437.pdf)
+
 1. EVRNet: Efficient Video Restoration on Edge Devices,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
 
@@ -41,9 +44,6 @@ Designs Targeting Multiple Tasks,
 
 1. Improving Efficiency in Neural Network Accelerator using Operands Hamming Distance Optimization,
 *Workshop on Energy Efficient Machine Learning and Cognitive Computing, NeurIPS (2019)*. [[PDF]](https://arxiv.org/pdf/2002.05293.pdf)
-
-1. HERALD: Optimizing Heterogeneous DNN Accelerators for Edge Devices,
-*arXiv (2019)*. [[PDF]](https://arxiv.org/pdf/1909.07437.pdf)
 
 1. Federated Learning with Non-IID Data,
 *arXiv (2018)*. [[PDF]](https://arxiv.org/pdf/1806.00582.pdf)
