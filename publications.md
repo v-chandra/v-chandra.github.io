@@ -4,7 +4,10 @@ title: Selected Recent Publications
 permalink: /publications/
 ---
 
-1. NASGEM: Neural architecture search via graph embedding method,
+1. CPT: Efficient Deep Neural Network Training via Cyclic Precision,
+*ICLR 2021 (Spotlight Presentation)*. [[PDF]](https://arxiv.org/pdf/2101.09868.pdf)
+
+1. NASGEM: Neural Architecture Search via Graph Embedding Method,
 *AAAI 2021*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
 
 1. Heterogeneous Dataflow Accelerators for Multi-DNN Workloads,
