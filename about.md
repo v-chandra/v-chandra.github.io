@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I lead the On-device AI applied research and engineering organization at Facebook Reality Labs 
+I lead the on-device AI applied research and engineering organization at Facebook Reality Labs 
 responsible for developing real-time on-device computer vision, machine perception and 
 speech/NLU technologies across AR/VR products. My research interests include all aspects of 
 SW/HW co-design for efficient on-device AI.
