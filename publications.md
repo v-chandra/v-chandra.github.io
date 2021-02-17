@@ -4,6 +4,9 @@ title: Selected Recent Publications
 permalink: /publications/
 ---
 
+1. AlphaNet: Improved Training of Supernet with Alpha-Divergence,
+*arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2102.07954.pdf)
+
 1. CPT: Efficient Deep Neural Network Training via Cyclic Precision,
 *ICLR 2021 (Spotlight Presentation)*. [[PDF]](https://arxiv.org/pdf/2101.09868.pdf)
 
