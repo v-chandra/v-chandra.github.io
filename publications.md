@@ -3,6 +3,8 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. Memory-efficient Speech Recognition on Smart Devices,
+*arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2102.11531.pdf)
 
 1. AlphaNet: Improved Training of Supernet with Alpha-Divergence,
 *arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2102.07954.pdf)
