@@ -44,7 +44,7 @@ Visual Recognition,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2010.14778.pdf)
 
 1. One weight bitwidth to rule them all,
-*Embedded Vision Workshop, ECCV 2020*. [[PDF]](https://arxiv.org/pdf/2008.09916.pdf)
+*Embedded Vision Workshop, ECCV 2020 (Best Paper Award)*. [[PDF]](https://arxiv.org/pdf/2008.09916.pdf)
 
 1. Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator 
 Designs Targeting Multiple Tasks,
