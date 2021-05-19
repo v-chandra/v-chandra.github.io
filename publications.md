@@ -3,6 +3,9 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. AlphaNet: Improved Training of Supernet with Alpha-Divergence,
+*ICML 2021 (Long Presentation)*. [[PDF]](https://arxiv.org/pdf/2102.07954.pdf)
+
 1. CPT: Efficient Deep Neural Network Training via Cyclic Precision,
 *ICLR 2021 (Spotlight Presentation)*. [[PDF]](https://arxiv.org/pdf/2101.09868.pdf)
 
@@ -17,9 +20,6 @@ permalink: /publications/
 
 1. Feature-Align Network and Knowledge Distillation for Efficient Denoising,
 *arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2103.01524.pdf)
-
-1. AlphaNet: Improved Training of Supernet with Alpha-Divergence,
-*arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2102.07954.pdf)
 
 1. Heterogeneous Dataflow Accelerators for Multi-DNN Workloads,
 *HPCA 2021*. [[PDF]](https://arxiv.org/pdf/1909.07437.pdf)
