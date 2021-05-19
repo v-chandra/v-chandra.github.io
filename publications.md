@@ -6,17 +6,23 @@ permalink: /publications/
 1. AlphaNet: Improved Training of Supernet with Alpha-Divergence,
 *ICML 2021 (Long Presentation)*. [[PDF]](https://arxiv.org/pdf/2102.07954.pdf)
 
+1. AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling,
+*CVPR 2021*. [[PDF]](https://arxiv.org/pdf/2011.09011.pdf)
+
+1. KeepAugment: A Simple Information-Preserving Data Augmentation Approach,
+*CVPR 2021*. [[PDF]](https://arxiv.org/pdf/2011.11778.pdf)
+
 1. CPT: Efficient Deep Neural Network Training via Cyclic Precision,
 *ICLR 2021 (Spotlight Presentation)*. [[PDF]](https://arxiv.org/pdf/2101.09868.pdf)
 
-1. Mind Mappings: Enabling Efficient Algorithm-Accelerator Mapping Space Search,
-*ASPLOS 2021*. [[PDF]](https://arxiv.org/pdf/2103.01489.pdf)
+1. NASGEM: Neural Architecture Search via Graph Embedding Method,
+*AAAI 2021*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
 
 1. Memory-efficient Speech Recognition on Smart Devices,
 *ICASSP 2021*. [[PDF]](https://arxiv.org/pdf/2102.11531.pdf)
 
-1. NASGEM: Neural Architecture Search via Graph Embedding Method,
-*AAAI 2021*. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
+1. Mind Mappings: Enabling Efficient Algorithm-Accelerator Mapping Space Search,
+*ASPLOS 2021*. [[PDF]](https://arxiv.org/pdf/2103.01489.pdf)
 
 1. Feature-Align Network and Knowledge Distillation for Efficient Denoising,
 *arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2103.01524.pdf)
@@ -31,14 +37,8 @@ permalink: /publications/
 Visual Recognition,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.14584.pdf)
 
-1. AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling,
-*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.09011.pdf)
-
 1. Can Temporal Information Help with Contrastive Self-Supervised Learning?,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.13046.pdf)
-
-1. KeepAugment: A Simple Information-Preserving Data Augmentation Approach,
-*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2011.11778.pdf)
 
 1. DNA: Differentiable Network-Accelerator Co-Search,
 *arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2010.14778.pdf)
