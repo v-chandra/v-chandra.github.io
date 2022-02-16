@@ -3,6 +3,36 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. Feature-Align Network with Knowledge Distillation for Efficient Denoising,
+*WACV 2022*. [[PDF]](https://openaccess.thecvf.com/content/WACV2022W/WACI/papers/Young_Feature-Align_Network_With_Knowledge_Distillation_for_Efficient_Denoising_WACVW_2022_paper.pdf)
+
+1. Low-Rank+ Sparse Tensor Compression for Neural Networks,
+*arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2111.01697.pdf)
+
+1. Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,
+*arXiv (2021)*. [[PDF]](http://128.84.4.34/pdf/2111.01236)
+
+1. EVRNet: Efficient Video Restoration on Edge Devices,
+*International Conference on Multimedia, 2021*. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
+
+1. Omni-sparsity DNN: Fast Sparsity Optimization for On-Device Streaming E2E ASR via Supernet,
+*ICASSP 2022*. [[PDF]](https://arxiv.org/pdf/2110.08352.pdf)
+
+1. Noisy Training Improves E2E ASR for the Edge,
+*arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2107.04677.pdf)
+
+1. Double-win Quant: Aggressively Winning Robustness of Quantized Deep Neural Networks via Random Precision Training and Inference,
+*ICML 2021*. [[PDF]](http://proceedings.mlr.press/v139/fu21c/fu21c.pdf)
+
+1. Collaborative Training of Acoustic Encoders for Speech Recognition,
+*arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2106.08960.pdf)
+
+1. Vision Transformers with Patch Diversification,
+*arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2104.12753.pdf)
+
+1. Mind Mappings: Enabling Efficient Algorithm-Accelerator Mapping Space Search,
+*ASPLOS 2021*. [[PDF]](https://https://arxiv.org/pdf/2103.01489.pdf)
+
 1. AlphaNet: Improved Training of Supernet with Alpha-Divergence,
 *ICML 2021 (Long Presentation)*. [[PDF]](https://arxiv.org/pdf/2102.07954.pdf)
 
@@ -24,14 +54,8 @@ permalink: /publications/
 1. Mind Mappings: Enabling Efficient Algorithm-Accelerator Mapping Space Search,
 *ASPLOS 2021*. [[PDF]](https://arxiv.org/pdf/2103.01489.pdf)
 
-1. Feature-Align Network and Knowledge Distillation for Efficient Denoising,
-*arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2103.01524.pdf)
-
 1. Heterogeneous Dataflow Accelerators for Multi-DNN Workloads,
 *HPCA 2021*. [[PDF]](https://arxiv.org/pdf/1909.07437.pdf)
-
-1. EVRNet: Efficient Video Restoration on Edge Devices,
-*arXiv (2020)*. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
 
 1. ScaleNAS: One-Shot Learning of Scale-Aware Representations for
 Visual Recognition,
