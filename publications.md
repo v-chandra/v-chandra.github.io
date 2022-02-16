@@ -3,6 +3,9 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. Omni-sparsity DNN: Fast Sparsity Optimization for On-Device Streaming E2E ASR via Supernet,
+*ICASSP 2022*. [[PDF]](https://arxiv.org/pdf/2110.08352.pdf)
+
 1. Feature-Align Network with Knowledge Distillation for Efficient Denoising,
 *WACV 2022*. [[PDF]](https://openaccess.thecvf.com/content/WACV2022W/WACI/papers/Young_Feature-Align_Network_With_Knowledge_Distillation_for_Efficient_Denoising_WACVW_2022_paper.pdf)
 
@@ -14,9 +17,6 @@ permalink: /publications/
 
 1. EVRNet: Efficient Video Restoration on Edge Devices,
 *International Conference on Multimedia, 2021*. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
-
-1. Omni-sparsity DNN: Fast Sparsity Optimization for On-Device Streaming E2E ASR via Supernet,
-*ICASSP 2022*. [[PDF]](https://arxiv.org/pdf/2110.08352.pdf)
 
 1. Noisy Training Improves E2E ASR for the Edge,
 *arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2107.04677.pdf)
