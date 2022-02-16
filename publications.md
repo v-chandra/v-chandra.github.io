@@ -3,6 +3,9 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,
+*ICLR 2022*. [[PDF]](https://openreview.net/pdf?id=Qaw16njk6L)
+
 1. Omni-sparsity DNN: Fast Sparsity Optimization for On-Device Streaming E2E ASR via Supernet,
 *ICASSP 2022*. [[PDF]](https://arxiv.org/pdf/2110.08352.pdf)
 
