@@ -3,6 +3,9 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,
+*CVPR 2022 (to appear)*. [[PDF]](http://128.84.4.34/pdf/2111.01236)
+
 1. NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,
 *ICLR 2022*. [[PDF]](https://openreview.net/pdf?id=Qaw16njk6L)
 
@@ -14,9 +17,6 @@ permalink: /publications/
 
 1. Low-Rank+ Sparse Tensor Compression for Neural Networks,
 *arXiv (2021)*. [[PDF]](https://arxiv.org/pdf/2111.01697.pdf)
-
-1. Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,
-*arXiv (2021)*. [[PDF]](http://128.84.4.34/pdf/2111.01236)
 
 1. EVRNet: Efficient Video Restoration on Edge Devices,
 *International Conference on Multimedia, 2021*. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
