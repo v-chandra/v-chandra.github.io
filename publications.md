@@ -3,6 +3,9 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks,
+*ICML 2022 (to appear)*. [[PDF]](https://arxiv.org/pdf/2206.00843.pdf)
+
 1. Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,
 *CVPR 2022 (to appear)*. [[PDF]](http://128.84.4.34/pdf/2111.01236)
 
