@@ -21,6 +21,9 @@ permalink: /publications/
 1. Streaming parallel transducer beam search with fast-slow cascaded encoders,
 **arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2203.15773.pdf)
 
+1. Collaborative Training of Acoustic Encoders for Speech Recognition,
+**Interspeech 2021)**. [[PDF]](https://arxiv.org/pdf/2106.08960.pdf)
+
 1. Low-Rank+ Sparse Tensor Compression for Neural Networks,
 **arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2111.01697.pdf)
 
@@ -32,9 +35,6 @@ permalink: /publications/
 
 1. Double-win Quant: Aggressively Winning Robustness of Quantized Deep Neural Networks via Random Precision Training and Inference,
 **ICML 2021**. [[PDF]](http://proceedings.mlr.press/v139/fu21c/fu21c.pdf)
-
-1. Collaborative Training of Acoustic Encoders for Speech Recognition,
-**arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2106.08960.pdf)
 
 1. Vision Transformers with Patch Diversification,
 **arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2104.12753.pdf)
