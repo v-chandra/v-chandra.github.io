@@ -21,29 +21,8 @@ permalink: /publications/
 1. Streaming parallel transducer beam search with fast-slow cascaded encoders,
 **arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2203.15773.pdf)
 
-1. Collaborative Training of Acoustic Encoders for Speech Recognition,
-**INTERSPEECH 2021**. [[PDF]](https://arxiv.org/pdf/2106.08960.pdf)
-
-1. Low-Rank+ Sparse Tensor Compression for Neural Networks,
-**arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2111.01697.pdf)
-
-1. EVRNet: Efficient Video Restoration on Edge Devices,
-**International Conference on Multimedia, 2021**. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
-
-1. Noisy Training Improves E2E ASR for the Edge,
-**arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2107.04677.pdf)
-
-1. Double-win Quant: Aggressively Winning Robustness of Quantized Deep Neural Networks via Random Precision Training and Inference,
-**ICML 2021**. [[PDF]](http://proceedings.mlr.press/v139/fu21c/fu21c.pdf)
-
-1. Vision Transformers with Patch Diversification,
-**arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2104.12753.pdf)
-
-1. Mind Mappings: Enabling Efficient Algorithm-Accelerator Mapping Space Search,
-**ASPLOS 2021**. [[PDF]](https://https://arxiv.org/pdf/2103.01489.pdf)
-
-1. AlphaNet: Improved Training of Supernet with Alpha-Divergence,
-**ICML 2021 (Long Presentation)**. [[PDF]](https://arxiv.org/pdf/2102.07954.pdf)
+1. CPT: Efficient Deep Neural Network Training via Cyclic Precision,
+**ICLR 2021 (Spotlight Presentation)**. [[PDF]](https://arxiv.org/pdf/2101.09868.pdf)
 
 1. AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling,
 **CVPR 2021**. [[PDF]](https://arxiv.org/pdf/2011.09011.pdf)
@@ -51,20 +30,38 @@ permalink: /publications/
 1. KeepAugment: A Simple Information-Preserving Data Augmentation Approach,
 **CVPR 2021**. [[PDF]](https://arxiv.org/pdf/2011.11778.pdf)
 
-1. CPT: Efficient Deep Neural Network Training via Cyclic Precision,
-**ICLR 2021 (Spotlight Presentation)**. [[PDF]](https://arxiv.org/pdf/2101.09868.pdf)
+1. AlphaNet: Improved Training of Supernet with Alpha-Divergence,
+**ICML 2021 (Long Presentation)**. [[PDF]](https://arxiv.org/pdf/2102.07954.pdf)
+
+1. Double-win Quant: Aggressively Winning Robustness of Quantized Deep Neural Networks via Random Precision Training and Inference,
+**ICML 2021**. [[PDF]](http://proceedings.mlr.press/v139/fu21c/fu21c.pdf)
 
 1. NASGEM: Neural Architecture Search via Graph Embedding Method,
 **AAAI 2021**. [[PDF]](https://arxiv.org/pdf/2007.04452.pdf)
 
+1. Collaborative Training of Acoustic Encoders for Speech Recognition,
+**INTERSPEECH 2021**. [[PDF]](https://arxiv.org/pdf/2106.08960.pdf)
+
 1. Memory-efficient Speech Recognition on Smart Devices,
 **ICASSP 2021**. [[PDF]](https://arxiv.org/pdf/2102.11531.pdf)
+
+1. Heterogeneous Dataflow Accelerators for Multi-DNN Workloads,
+**HPCA 2021**. [[PDF]](https://arxiv.org/pdf/1909.07437.pdf)
+
+1. EVRNet: Efficient Video Restoration on Edge Devices,
+**International Conference on Multimedia, 2021**. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
 
 1. Mind Mappings: Enabling Efficient Algorithm-Accelerator Mapping Space Search,
 **ASPLOS 2021**. [[PDF]](https://arxiv.org/pdf/2103.01489.pdf)
 
-1. Heterogeneous Dataflow Accelerators for Multi-DNN Workloads,
-**HPCA 2021**. [[PDF]](https://arxiv.org/pdf/1909.07437.pdf)
+1. Noisy Training Improves E2E ASR for the Edge,
+**arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2107.04677.pdf)
+
+1. Low-Rank+ Sparse Tensor Compression for Neural Networks,
+**arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2111.01697.pdf)
+
+1. Vision Transformers with Patch Diversification,
+**arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2104.12753.pdf)
 
 1. ScaleNAS: One-Shot Learning of Scale-Aware Representations for
 Visual Recognition,
