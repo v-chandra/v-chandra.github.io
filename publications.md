@@ -18,6 +18,9 @@ permalink: /publications/
 1. Feature-Align Network with Knowledge Distillation for Efficient Denoising,
 **WACV 2022**. [[PDF]](https://openaccess.thecvf.com/content/WACV2022W/WACI/papers/Young_Feature-Align_Network_With_Knowledge_Distillation_for_Efficient_Denoising_WACVW_2022_paper.pdf)
 
+1. Streaming parallel transducer beam search with fast-slow cascaded encoders,
+**arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2203.15773.pdf)
+
 1. Low-Rank+ Sparse Tensor Compression for Neural Networks,
 **arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2111.01697.pdf)
 
