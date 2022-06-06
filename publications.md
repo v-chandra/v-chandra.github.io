@@ -22,7 +22,7 @@ permalink: /publications/
 **arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2203.15773.pdf)
 
 1. Collaborative Training of Acoustic Encoders for Speech Recognition,
-**Interspeech 2021)**. [[PDF]](https://arxiv.org/pdf/2106.08960.pdf)
+**INTERSPEECH 2021**. [[PDF]](https://arxiv.org/pdf/2106.08960.pdf)
 
 1. Low-Rank+ Sparse Tensor Compression for Neural Networks,
 **arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2111.01697.pdf)
