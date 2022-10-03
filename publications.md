@@ -15,7 +15,7 @@ permalink: /publications/
 1. Omni-sparsity DNN: Fast Sparsity Optimization for On-Device Streaming E2E ASR via Supernet,
 **ICASSP 2022**. [[PDF]](https://arxiv.org/pdf/2110.08352.pdf)
 
-1. Streaming parallel transducer beam search with fast-slow cascaded encoders,
+1. Streaming Parallel Transducer Beam Search with Fast-Slow Cascaded Encoders,
 **INTERSPEECH 2022**. [[PDF]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/mahadeokar22_interspeech.pdf)
 
 1. ScaleNAS: Multi-Path One-Shot NAS for Scale-Aware High-Resolution Representation,
