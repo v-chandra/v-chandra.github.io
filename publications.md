@@ -3,8 +3,14 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. Contrastive Quant: Quantization makes Stronger Contrastive Learning,
+**DAC 2022**. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3489517.3530419)
+
 1. DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks,
-**ICML 2022 (to appear)**. [[PDF]](https://arxiv.org/pdf/2206.00843.pdf)
+**ICML 2022**. [[PDF]](https://arxiv.org/pdf/2206.00843.pdf)
+
+1. ScaleNAS: Multi-Path One-Shot NAS for Scale-Aware High-Resolution Representation,
+**AutoML 2022**. [[PDF]](https://openreview.net/pdf?id=BWfeZ6SIlq)
 
 1. Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,
 **CVPR 2022**. [[PDF]](http://128.84.4.34/pdf/2111.01236)
@@ -62,10 +68,6 @@ permalink: /publications/
 
 1. Vision Transformers with Patch Diversification,
 **arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2104.12753.pdf)
-
-1. ScaleNAS: One-Shot Learning of Scale-Aware Representations for
-Visual Recognition,
-**arXiv (2020)**. [[PDF]](https://arxiv.org/pdf/2011.14584.pdf)
 
 1. Can Temporal Information Help with Contrastive Self-Supervised Learning?,
 **arXiv (2020)**. [[PDF]](https://arxiv.org/pdf/2011.13046.pdf)
