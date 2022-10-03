@@ -98,7 +98,7 @@ Designs Targeting Multiple Tasks,
 **arXiv (2018)**. [[PDF]](https://arxiv.org/pdf/1801.06601.pdf)
 
 1. Not All Ops are Created Equal!,
-**arXiv (2018)**. [[PDF]](https://arxiv.org/pdf/1801.04326.pdf)
+**SysML (2018)**. [[PDF]](https://arxiv.org/pdf/1801.04326.pdf)
 
 1. PrivyNet: A Flexible Framework for Privacy-Preserving Deep Neural Network Training,
 **arXiv (2018)**. [[PDF]](https://arxiv.org/pdf/1709.06161.pdf)
