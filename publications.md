@@ -3,29 +3,29 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
-1. Contrastive Quant: Quantization makes Stronger Contrastive Learning,
-**DAC 2022**. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3489517.3530419)
-
-1. DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks,
-**ICML 2022**. [[PDF]](https://arxiv.org/pdf/2206.00843.pdf)
-
-1. ScaleNAS: Multi-Path One-Shot NAS for Scale-Aware High-Resolution Representation,
-**AutoML 2022**. [[PDF]](https://openreview.net/pdf?id=BWfeZ6SIlq)
+1. NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,
+**ICLR 2022**. [[PDF]](https://openreview.net/pdf?id=Qaw16njk6L)
 
 1. Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,
 **CVPR 2022**. [[PDF]](http://128.84.4.34/pdf/2111.01236)
 
-1. NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,
-**ICLR 2022**. [[PDF]](https://openreview.net/pdf?id=Qaw16njk6L)
+1. DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks,
+**ICML 2022**. [[PDF]](https://arxiv.org/pdf/2206.00843.pdf)
 
 1. Omni-sparsity DNN: Fast Sparsity Optimization for On-Device Streaming E2E ASR via Supernet,
 **ICASSP 2022**. [[PDF]](https://arxiv.org/pdf/2110.08352.pdf)
 
+1. Streaming parallel transducer beam search with fast-slow cascaded encoders,
+**INTERSPEECH 2022**. [[PDF]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/mahadeokar22_interspeech.pdf)
+
+1. ScaleNAS: Multi-Path One-Shot NAS for Scale-Aware High-Resolution Representation,
+**AutoML 2022**. [[PDF]](https://openreview.net/pdf?id=BWfeZ6SIlq)
+
+1. Contrastive Quant: Quantization makes Stronger Contrastive Learning,
+**DAC 2022**. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3489517.3530419)
+
 1. Feature-Align Network with Knowledge Distillation for Efficient Denoising,
 **WACV 2022**. [[PDF]](https://openaccess.thecvf.com/content/WACV2022W/WACI/papers/Young_Feature-Align_Network_With_Knowledge_Distillation_for_Efficient_Denoising_WACVW_2022_paper.pdf)
-
-1. Streaming parallel transducer beam search with fast-slow cascaded encoders,
-**arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2203.15773.pdf)
 
 1. CPT: Efficient Deep Neural Network Training via Cyclic Precision,
 **ICLR 2021 (Spotlight Presentation)**. [[PDF]](https://arxiv.org/pdf/2101.09868.pdf)
