@@ -3,6 +3,21 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. XRBench: An Extended Reality (XR) Machine Learning Benchmark Suite for the Metaverse,
+**MLSys (2023)**. [[PDF]](https://arxiv.org/pdf/2211.08675.pdf)
+
+1. Fast Point Cloud Generation with Straight Flows,
+**CVPR 2023 (Accepted)**. [[PDF]](https://arxiv.org/pdf/2212.01747.pdf)
+
+1. PathFusion: Path-consistent Lidar-Camera Deep Feature Fusion,
+**arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2212.06244.pdf)
+
+1. LiCo-Net: Linearized Convolution Network for Hardware-efficient Keyword Spotting,
+**arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2211.04635.pdf)
+
+1. Feature-align network with knowledge distillation for efficient denoising,
+**WACV 2022**. [[PDF]](https://openaccess.thecvf.com/content/WACV2022W/WACI/papers/Young_Feature-Align_Network_With_Knowledge_Distillation_for_Efficient_Denoising_WACVW_2022_paper.pdf)
+
 1. NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,
 **ICLR 2022**. [[PDF]](https://openreview.net/pdf?id=Qaw16njk6L)
 
