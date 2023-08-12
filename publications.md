@@ -3,11 +3,20 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
+**ACL (2023)**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
+
+1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
+
+1. Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2306.04845.pdf)
+
 1. XRBench: An Extended Reality (XR) Machine Learning Benchmark Suite for the Metaverse,
 **MLSys (2023)**. [[PDF]](https://arxiv.org/pdf/2211.08675.pdf)
 
 1. Fast Point Cloud Generation with Straight Flows,
-**CVPR 2023 (Accepted)**. [[PDF]](https://arxiv.org/pdf/2212.01747.pdf)
+**CVPR 2023**. [[PDF]](https://arxiv.org/pdf/2212.01747.pdf)
 
 1. PathFusion: Path-consistent Lidar-Camera Deep Feature Fusion,
 **arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2212.06244.pdf)
