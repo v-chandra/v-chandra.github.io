@@ -3,6 +3,36 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. MiniGPT-v2: Large Language Model As a Unified Interface for Vision-Language Multi-task Learning,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2310.09478.pdf)
+
+1. Revisiting Sample Size Determination in Natural Language Understanding,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
+
+1. Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming Speech Recognition,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.07988.pdf)
+
+1. Stack-and-Delay: a new codebook pattern for music generation,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.08804.pdf)
+
+1. Enhance audio generation controllability through representation similarity regularization,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.08773.pdf)
+
+1. Exploring Speech Enhancement for Low-resource Speech Synthesis,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.10795.pdf)
+
+1. FoleyGen: Visually-Guided Audio Generation,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.10537.pdf)
+
+1. TODM: Train Once Deploy Many Efficient Supernet-Based RNN-T Compression For On-device ASR Models,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.01947.pdf)
+
+1. In-Context Prompt Editing For Conditional Audio Generation,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2311.00895.pdf)
+
+1. On The Open Prompt Challenge In Conditional Audio Generation,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2311.00897.pdf)
+
 1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
 **ACL (2023)**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
 
