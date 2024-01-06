@@ -3,6 +3,12 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity, 
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
+
+1. Taming Mode Collapse in Score Distillation for Text-to-3D Generation,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2401.00909.pdf)
+
 1. MiniGPT-v2: Large Language Model As a Unified Interface for Vision-Language Multi-task Learning,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2310.09478.pdf)
 
