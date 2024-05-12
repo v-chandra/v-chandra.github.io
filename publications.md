@@ -3,11 +3,43 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
-1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity, 
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
+1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
+**ICML 2024**. [[PDF]](https://arxiv.org/pdf/2402.14905)
+
+1. EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything,
+**CVPR 2024 (Highlight)**. [[PDF]](https://arxiv.org/pdf/2312.00863)
 
 1. Taming Mode Collapse in Score Distillation for Text-to-3D Generation,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2401.00909.pdf)
+**CVPR 2024**. [[PDF]](https://arxiv.org/pdf/2401.00909.pdf)
+
+1. DREAM: A Dynamic Scheduler for Dynamic Real-time Multi-model ML Workloads,
+**ASPLOS 2024**. [[PDF]](https://arxiv.org/pdf/2212.03414)
+
+1. TODM: Train Once Deploy Many Efficient Supernet-Based RNN-T Compression For On-Device ASR Models,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.01947)
+
+1. Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming
+Speech Recognition,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.07988)
+
+1. Stack-and-delay: a new codebook pattern for music generation,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.08804)
+
+1. In-Context Prompt Editing for Conditional Audio Generation,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2311.00895)
+
+1. On the Open Prompt Challenge in Conditional Audio Generation,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2311.00897)
+
+1. CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2403.19495)
+
+1. MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or 
+Sparse-view 3D Object Reconstruction,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2402.12712)
+
+1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity, 
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
 
 1. MiniGPT-v2: Large Language Model As a Unified Interface for Vision-Language Multi-task Learning,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2310.09478.pdf)
@@ -18,9 +50,6 @@ permalink: /publications/
 1. Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming Speech Recognition,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.07988.pdf)
 
-1. Stack-and-Delay: a new codebook pattern for music generation,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.08804.pdf)
-
 1. Enhance audio generation controllability through representation similarity regularization,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.08773.pdf)
 
@@ -30,26 +59,17 @@ permalink: /publications/
 1. FoleyGen: Visually-Guided Audio Generation,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.10537.pdf)
 
-1. TODM: Train Once Deploy Many Efficient Supernet-Based RNN-T Compression For On-device ASR Models,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.01947.pdf)
-
-1. In-Context Prompt Editing For Conditional Audio Generation,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2311.00895.pdf)
-
-1. On The Open Prompt Challenge In Conditional Audio Generation,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2311.00897.pdf)
-
 1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
-**ACL (2023)**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
+**ACL 2023**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
 
 1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
 
 1. Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2306.04845.pdf)
+**arXiv 2023**. [[PDF]](https://arxiv.org/pdf/2306.04845.pdf)
 
 1. XRBench: An Extended Reality (XR) Machine Learning Benchmark Suite for the Metaverse,
-**MLSys (2023)**. [[PDF]](https://arxiv.org/pdf/2211.08675.pdf)
+**MLSys 2023**. [[PDF]](https://arxiv.org/pdf/2211.08675.pdf)
 
 1. Fast Point Cloud Generation with Straight Flows,
 **CVPR 2023**. [[PDF]](https://arxiv.org/pdf/2212.01747.pdf)
