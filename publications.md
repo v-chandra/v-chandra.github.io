@@ -3,6 +3,12 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. An Introduction to Vision-Language Modeling,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
+
+1. SpinQuant: LLM Quantization with Learned Rotations,
+**arXiv (2024)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
+
 1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
 **ICML 2024**. [[PDF]](https://arxiv.org/pdf/2402.14905)
 
