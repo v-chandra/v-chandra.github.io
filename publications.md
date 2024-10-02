@@ -3,9 +3,37 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
+**ICML 2024**. [[PDF]](https://arxiv.org/pdf/2402.14905)
+
+1. EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything,
+**CVPR 2024 (Highlight)**. [[PDF]](https://arxiv.org/pdf/2312.00863)
+
+1. Taming Mode Collapse in Score Distillation for Text-to-3D Generation,
+**CVPR 2024**. [[PDF]](https://arxiv.org/pdf/2401.00909.pdf)
+
+1. CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians,
+**ECCV (2024)**. [[PDF]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04306.pdf)
+
 1. MVDiffHD: A Dense High-resolution Multi-view Diffusion Model for Single or 
 Sparse-view 3D Object Reconstruction,
-**ECCVv (2024)**. [[PDF]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02446.pdf)
+**ECCV (2024)**. [[PDF]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02446.pdf)
+
+1. TODM: Train Once Deploy Many Efficient Supernet-Based RNN-T Compression For On-Device ASR Models,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.01947)
+
+1. Stack-and-delay: a new codebook pattern for music generation,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.08804)
+
+1. In-Context Prompt Editing for Conditional Audio Generation,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2311.00895)
+
+1. On the Open Prompt Challenge in Conditional Audio Generation,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2311.00897)
+
+1. Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming
+Speech Recognition,
+**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.07988)
 
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
@@ -17,36 +45,8 @@ Sparse-view 3D Object Reconstruction,
 for Target Applications,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.15877)
 
-1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
-**ICML 2024**. [[PDF]](https://arxiv.org/pdf/2402.14905)
-
-1. EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything,
-**CVPR 2024 (Highlight)**. [[PDF]](https://arxiv.org/pdf/2312.00863)
-
-1. Taming Mode Collapse in Score Distillation for Text-to-3D Generation,
-**CVPR 2024**. [[PDF]](https://arxiv.org/pdf/2401.00909.pdf)
-
 1. DREAM: A Dynamic Scheduler for Dynamic Real-time Multi-model ML Workloads,
 **ASPLOS 2024**. [[PDF]](https://arxiv.org/pdf/2212.03414)
-
-1. TODM: Train Once Deploy Many Efficient Supernet-Based RNN-T Compression For On-Device ASR Models,
-**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.01947)
-
-1. Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming
-Speech Recognition,
-**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.07988)
-
-1. Stack-and-delay: a new codebook pattern for music generation,
-**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.08804)
-
-1. In-Context Prompt Editing for Conditional Audio Generation,
-**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2311.00895)
-
-1. On the Open Prompt Challenge in Conditional Audio Generation,
-**ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2311.00897)
-
-1. CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2403.19495)
 
 1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity, 
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
@@ -56,9 +56,6 @@ Speech Recognition,
 
 1. Revisiting Sample Size Determination in Natural Language Understanding,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
-
-1. Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming Speech Recognition,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.07988.pdf)
 
 1. Enhance audio generation controllability through representation similarity regularization,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.08773.pdf)
