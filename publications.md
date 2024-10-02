@@ -3,6 +3,10 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. MVDiffHD: A Dense High-resolution Multi-view Diffusion Model for Single or 
+Sparse-view 3D Object Reconstruction,
+**ECCVv (2024)**. [[PDF]](https://arxiv.org/pdf/2402.12712)
+
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
 
@@ -43,10 +47,6 @@ Speech Recognition,
 
 1. CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2403.19495)
-
-1. MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or 
-Sparse-view 3D Object Reconstruction,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2402.12712)
 
 1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity, 
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
