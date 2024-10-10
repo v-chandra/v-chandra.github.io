@@ -35,8 +35,17 @@ Sparse-view 3D Object Reconstruction,
 Speech Recognition,
 **ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.07988)
 
+1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
+**ACL Findings (2024)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
+
+1. Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts,
+**ACL Findings (2024)**. [[PDF]](https://arxiv.org/pdf/2306.04845.pdf)
+
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
+
+1. PathFusion: Path-consistent Lidar-Camera Deep Feature Fusion,
+**3D Vision (2024)**. [[PDF]](https://arxiv.org/pdf/2212.06244.pdf)
 
 1. SpinQuant: LLM Quantization with Learned Rotations,
 **arXiv (2024)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
@@ -69,20 +78,11 @@ for Target Applications,
 1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
 **ACL 2023**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
 
-1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
-
-1. Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts,
-**arXiv 2023**. [[PDF]](https://arxiv.org/pdf/2306.04845.pdf)
-
 1. XRBench: An Extended Reality (XR) Machine Learning Benchmark Suite for the Metaverse,
 **MLSys 2023**. [[PDF]](https://arxiv.org/pdf/2211.08675.pdf)
 
 1. Fast Point Cloud Generation with Straight Flows,
 **CVPR 2023**. [[PDF]](https://arxiv.org/pdf/2212.01747.pdf)
-
-1. PathFusion: Path-consistent Lidar-Camera Deep Feature Fusion,
-**arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2212.06244.pdf)
 
 1. LiCo-Net: Linearized Convolution Network for Hardware-efficient Keyword Spotting,
 **arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2211.04635.pdf)
