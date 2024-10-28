@@ -3,6 +3,15 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.17434)
+
+1. Agent-as-a-Judge: Evaluate Agents with Agents,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
+
+1. High fidelity text-guided music generation and editing via single-stage flow matching,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2407.03648)
+
 1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
 **ICML 2024**. [[PDF]](https://arxiv.org/pdf/2402.14905)
 
