@@ -3,6 +3,9 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. Efficient Track Anything,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2411.18933)
+
 1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.17434)
 
