@@ -38,7 +38,7 @@ Consider what a truly useful personal AI assistant would need to know:
 
 This is exactly the data that would make AI genuinely useful. It's also exactly the data that [creates massive privacy risk](https://www.techpolicy.press/the-privacy-challenges-of-emerging-personalized-ai-services/) when it leaves your device. As researchers have noted, emerging AI services emphasize "extreme personalization" which sets off a race for "massive amounts of detailed user information, much of which is highly sensitive."
 
-Cloud providers know this. Google's response was [Private Cloud Compute](https://thehackernews.com/2025/11/google-launches-private-ai-compute.html), a "secure, fortified space" that processes sensitive data with "on-device-level privacy." Apple routes personal context through [Private Cloud Compute](https://machinelearning.apple.com/research/introducing-apple-foundation-models) architecture specifically designed to never expose user data.
+Cloud providers know this. That's why they've built "private cloud compute" architectures, secure enclaves that process sensitive data with "on-device-level privacy." These are elaborate workarounds to access data that users fundamentally don't want to share.
 
 But these are workarounds to a fundamental architectural mismatch: cloud models trying to access local context. The real solution isn't better cloud privacy. It's moving the model to where the context already lives.
 
@@ -68,7 +68,7 @@ The economics are compelling: running a sub-billion parameter model can be [10-3
 
 But the real advantage isn't cost or speed. It's **context access**.
 
-An on-device model has secure access to what Apple calls "the rich tapestry of your personal data: your emails, text messages, photo library, calendar appointments, and even your app usage patterns." It can learn locally and build "a unique neural model of *you*" that understands "your relationships, your priorities, and your personal context."
+An on-device model has secure access to the rich tapestry of your personal data: emails, text messages, photos, calendar appointments, and app usage patterns. It can learn locally and build a unique model of *you* that understands your relationships, priorities, and personal context.
 
 A MobileLLM-R1 model running locally can:
 - Access your full message history without sending it to a server
@@ -152,8 +152,6 @@ If context graphs become the real source of truth for autonomy, then whoever bui
 Cloud providers can't replicate it because users won't share the data. Competitors can't transfer it since the graph is local and personal. The switching cost is your entire behavioral history and preference model.
 
 This is stronger than a traditional data moat. It's not just that you have the user's data. It's that the user's data is *about how they make decisions*, which is both more valuable and more private than transactional data.
-
-Apple seems to understand this. Their entire Apple Intelligence positioning is "personal context awareness," AI that "understands your calendar, messages, location, and habits." Samsung has made it [explicit which Galaxy AI features run on vs. off device](https://www.androidcentral.com/apps-software/ai/ai-2025-report-card), letting users disable cloud features entirely.
 
 The race is on to own the personal context layer. And the teams building capable on-device models, ones that can actually reason about context rather than just pattern-match -have a significant head start.
 
