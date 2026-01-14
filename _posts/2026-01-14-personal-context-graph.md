@@ -59,6 +59,12 @@ An on-device model has secure access to your emails, messages, photos, calendar,
 
 This isn't a privacy workaround. It's a structural advantage that cloud models cannot replicate.
 
+## What This Enables
+
+With a personal context graph, AI moves from reactive to proactive. Instead of answering questions, it anticipates needs. Instead of generic suggestions, it offers ones grounded in your history, preferences, and patterns. The difference between "here are some restaurants nearby" and "you usually order Thai when you're stressed, and you seem stressed."
+
+Phones are uniquely positioned to build this. Beyond apps and messages, they have sensors: GPS for location patterns, accelerometer for activity, microphone for ambient context, and connection to wearables for sleep and heart rate. Combined with on-device models that can reason about this multimodal stream, phones can infer not just where you are, but how you're doing.
+
 ## The Execution Path Argument
 
 Enterprise AI startups have an advantage when they "sit in the execution path," seeing full context at decision time. On-device models have the same advantage for personal decisions:
