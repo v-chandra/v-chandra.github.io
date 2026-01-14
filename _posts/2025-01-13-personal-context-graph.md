@@ -54,7 +54,7 @@ If 2024 proved small models could be useful, 2025 proved they could *think*.
 
 [MobileLLM-R1](https://arxiv.org/abs/2509.24945) brought reasoning to sub-billion parameter models. MobileLLM-R1-950M achieves 5× higher accuracy on MATH compared to OLMo-1.24B, and scores 15.5 on AIME versus 0.6 for comparable models. It matches Qwen3-0.6B on reasoning benchmarks despite training on 88% fewer tokens.
 
-The line continued with MobileLLM-R1.5 (knowledge distillation) and [MobileLLM-Pro](https://howaiworks.ai/blog/mobilellm-pro-announcement) - a 1B model with 128k context that outperforms Gemma 3 1B and Llama 3.2 1B while achieving int4 quantization with less than 1.3% quality loss.
+The line continued with MobileLLM-R1.5 (knowledge distillation) and [MobileLLM-Pro](https://arxiv.org/pdf/2511.06719) - a 1B model with 128k context that outperforms Gemma 3 1B and Llama 3.2 1B while achieving int4 quantization with less than 1.3% quality loss.
 
 These aren't toy models. They can reason about context and make decisions.
 
@@ -193,7 +193,7 @@ This can only be built on-device. It requires models that can reason, not just r
 
 - Liu et al. ["MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases"](https://arxiv.org/abs/2402.14905). ICML 2024.
 - Meta AI. ["MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes"](https://arxiv.org/abs/2509.24945). September 2025.
-- Meta AI. ["MobileLLM-Pro: 1B On-Device Model with 128k Context"](https://howaiworks.ai/blog/mobilellm-pro-announcement). October 2025.
+- Meta AI. ["MobileLLM-Pro: 1B On-Device Model with 128k Context"](https://arxiv.org/pdf/2511.06719). October 2025.
 - NVIDIA Research. ["Small Language Models are the Future of Agentic AI"](https://arxiv.org/abs/2506.02153). June 2025.
 - Google. ["Introducing Gemma 3n: The Developer Guide"](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/). 2025.
 - Apple Machine Learning Research. ["Updates to Apple's On-Device and Server Foundation Language Models"](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates). 2025.
