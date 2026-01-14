@@ -3,6 +3,33 @@ layout: page
 title: Selected Recent Publications
 permalink: /publications/
 ---
+1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2601.05175)
+
+1. MobileLLM-Pro Technical Report,
+**arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2511.06719)
+
+1. DepthLM: Metric Depth from Vision Language Models,
+**arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2509.25413)
+
+1. MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes,
+**arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2509.24945)
+
+1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers
+**ACL (2025)** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf) 
+
+1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
+**arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2502.02631?)
+
+1. EdgeTAM: On-Device Track Anything Model,
+**CVPR (2025)** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_EdgeTAM_On-Device_Track_Anything_Model_CVPR_2025_paper.pdf)
+
+1. MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction
+**ECCV (2025)** [[PDF]](https://arxiv.org/pdf/2402.12712)
+
+1. APOLLO: SGD-like Memory, AdamW-level Performance,
+**MLSys (2025)** [[PDF]](https://proceedings.mlsys.org/paper_files/paper/2025/file/437bc4ccafd3fc6d4289bd10940be42b-Paper-Conference.pdf)
+
 1. CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians,
 **ECCV (2025)**. [[PDF]](https://arxiv.org/pdf/2403.19495)
 
