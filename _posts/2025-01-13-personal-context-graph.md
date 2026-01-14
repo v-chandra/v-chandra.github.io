@@ -3,7 +3,7 @@ layout: post
 title: "The Personal Context Graph: Why On-Device AI Will Capture the Layer That Cloud Models Can't"
 ---
 
-There's a growing consensus in AI that the next trillion-dollar platform won't be another chatbot or copilot. It'll be the system that captures ["context graphs"](https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/): the decision traces, exceptions, precedents, and cross-system context that currently live in Slack threads, deal desk conversations, and people's heads.
+There's a growing consensus in AI that the next trillion-dollar platform won't be another chatbot or copilot. It'll be the system that captures ["context graphs"](https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/): the decision traces, exceptions, and precedents that currently live in Slack threads, deal desk conversations, and people's heads.
 
 The thesis is compelling. But it's focused on the wrong scale.
 
@@ -11,79 +11,49 @@ The real context graph opportunity isn't in the enterprise. It's in your pocket.
 
 ## The Decision Trace Problem, Personalized
 
-Traditional systems of record capture *what* happened, but not *why it was allowed to happen*. A CRM stores "20% discount applied." It doesn't store that Finance approved it because the customer had a similar deal last quarter, reminded the rep via Slack, and the VP made an exception based on the customer's expansion plans mentioned in a Zoom call.
+Traditional systems capture *what* happened, but not *why*. Your phone knows you ordered Thai food. It doesn't know you ordered it because you were stressed, it was raining, and your partner was working late. Your calendar shows you declined a meeting. It doesn't capture that you declined because you've been in back-to-backs all week and the agenda was vague.
 
-This same problem exists at the personal level, and it's even more acute.
+These personal decision traces are everywhere: why you swiped left, why you chose that route, why you replied to one email immediately but let another sit.
 
-Your phone knows you ordered Thai food. It doesn't know you ordered it because you were stressed, it was raining, your partner was working late, and you remembered that restaurant from a recommendation last month. Your calendar shows you declined a meeting. It doesn't capture that you declined because you've been in back-to-backs all week, you noticed the agenda was vague, and similar meetings from that organizer have historically run over.
+No cloud service can capture this context. Not because of technical limitations, but because **you would never upload it.**
 
-These personal decision traces are everywhere:
-- Why you swiped left or right
-- Why you chose that route, not the faster one
-- Why you replied to that email immediately but let the other one sit
-- Why you bought the cheaper option this time but splurged last time
+## The Privacy Paradox
 
-No cloud service can capture this context. Not because of technical limitations, but because of an architectural impossibility: **you would never upload it.**
+The most valuable decision traces are the ones you'd never share: your financial anxieties, relationship dynamics, health concerns, work frustrations, daily habits.
 
-## The Privacy Paradox of Cloud Context
+This is exactly the data that would make AI genuinely useful. It's also exactly the data that [creates massive privacy risk](https://www.techpolicy.press/the-privacy-challenges-of-emerging-personalized-ai-services/) when it leaves your device.
 
-Here's the fundamental problem with cloud-based context graphs for consumers: the most valuable decision traces are the ones you'd never share.
-
-Consider what a truly useful personal AI assistant would need to know:
-- Your financial situation and spending anxieties
-- Your relationship dynamics and social priorities
-- Your health concerns and coping mechanisms
-- Your work frustrations and career ambitions
-- Your daily routines and private habits
-
-This is exactly the data that would make AI genuinely useful. It's also exactly the data that [creates massive privacy risk](https://www.techpolicy.press/the-privacy-challenges-of-emerging-personalized-ai-services/) when it leaves your device. As researchers have noted, emerging AI services emphasize "extreme personalization" which sets off a race for "massive amounts of detailed user information, much of which is highly sensitive."
-
-Cloud providers know this. That's why they've built "private cloud compute" architectures, secure enclaves that process sensitive data with "on-device-level privacy." These are elaborate workarounds to access data that users fundamentally don't want to share.
-
-But these are workarounds to a fundamental architectural mismatch: cloud models trying to access local context. The real solution isn't better cloud privacy. It's moving the model to where the context already lives.
+Cloud providers have built "private cloud compute" architectures as workarounds. But the real solution isn't better cloud privacy. It's moving the model to where the context already lives.
 
 ## The MobileLLM Thesis: Architecture Over Scale
 
-The conventional wisdom in AI has been simple: bigger is better. But for on-device applications, **architecture matters more than scale.**
+The conventional wisdom in AI: bigger is better. But for on-device applications, **architecture matters more than scale.**
 
-[MobileLLM](https://arxiv.org/abs/2402.14905) (ICML 2024) proved this by building a 350M parameter model that outperformed prior state-of-the-art by 4.3% through smarter design: deep-thin architectures, embedding sharing, and grouped-query attention. The result was production-ready efficiency. The 125M model runs at 50 tokens/second on an iPhone, compared to 3-6 for LLaMA 7B.
+[MobileLLM](https://arxiv.org/abs/2402.14905) (ICML 2024) proved this with a 350M parameter model that outperformed prior state-of-the-art by 4.3% through smarter design: deep-thin architectures, embedding sharing, and grouped-query attention. The 125M model runs at 50 tokens/second on an iPhone, compared to 3-6 for LLaMA 7B.
 
 ## From Chat to Reasoning: MobileLLM-R1
 
 If 2024 proved small models could be useful, 2025 proved they could *think*.
 
-[MobileLLM-R1](https://arxiv.org/abs/2509.24945) brought reasoning to sub-billion parameter models. MobileLLM-R1-950M achieves 5× higher accuracy on MATH compared to OLMo-1.24B, and scores 15.5 on AIME versus 0.6 for comparable models. It matches Qwen3-0.6B on reasoning benchmarks despite training on 88% fewer tokens.
+[MobileLLM-R1](https://arxiv.org/abs/2509.24945) achieves 5× higher accuracy on MATH compared to OLMo-1.24B, and scores 15.5 on AIME versus 0.6 for comparable models, despite training on 88% fewer tokens.
 
-The line continued with MobileLLM-R1.5 (knowledge distillation) and [MobileLLM-Pro](https://arxiv.org/abs/2511.06719), a 1B model with 128k context that outperforms Gemma 3 1B and Llama 3.2 1B while achieving int4 quantization with less than 1.3% quality loss.
+The line continued with [MobileLLM-Pro](https://arxiv.org/abs/2511.06719), a 1B model with 128k context that outperforms Gemma 3 1B and Llama 3.2 1B while achieving int4 quantization with less than 1.3% quality loss.
 
 These aren't toy models. They can reason about context and make decisions.
 
 ## Why This Matters for Context Graphs
 
-NVIDIA's June 2025 paper ["Small Language Models are the Future of Agentic AI"](https://arxiv.org/abs/2506.02153) makes the theoretical case that SLMs are "sufficiently powerful, inherently more suitable, and necessarily more economical" for specialized tasks. They argue for "a federation of smaller, faster, privacy-friendly agents running on the edge, in your browser, or even offline."
-
-The MobileLLM family is the empirical proof.
-
-The economics are compelling: running a sub-billion parameter model can be [10-30× cheaper](https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/) than running a 405B model. Fine-tuning takes hours instead of weeks. Latency drops from seconds to milliseconds.
+The economics are compelling: sub-billion parameter models are [10-30× cheaper](https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/) than 405B models. Fine-tuning takes hours instead of weeks. Latency drops from seconds to milliseconds.
 
 But the real advantage isn't cost or speed. It's **context access**.
 
-An on-device model has secure access to the rich tapestry of your personal data: emails, text messages, photos, calendar appointments, and app usage patterns. It can learn locally and build a unique model of *you* that understands your relationships, priorities, and personal context.
-
-A MobileLLM-R1 model running locally can:
-- Access your full message history without sending it to a server
-- See your calendar, location, and app usage patterns in real-time
-- Reason about multi-step decisions (thanks to 32k context and genuine reasoning capability)
-- Run continuously in the background, building context over time
-- Never expose your data to third parties
+An on-device model has secure access to your emails, messages, photos, calendar, and app usage. It can build a unique model of *you* that understands your relationships, priorities, and context, without ever exposing your data to third parties.
 
 This isn't a privacy workaround. It's a structural advantage that cloud models cannot replicate.
 
 ## The Execution Path Argument
 
-Enterprise AI startups have a structural advantage when they "sit in the execution path," seeing full context at decision time, capturing what inputs were gathered, what policy was evaluated, what exception route was invoked.
-
-On-device models have the same structural advantage for personal decisions:
+Enterprise AI startups have an advantage when they "sit in the execution path," seeing full context at decision time. On-device models have the same advantage for personal decisions:
 
 <table style="width:100%; border-collapse: collapse; margin: 1.5em 0;">
   <thead>
@@ -102,88 +72,45 @@ On-device models have the same structural advantage for personal decisions:
       <td style="border: 1px solid #ddd; padding: 10px;">Sees calendar + messages + location + apps</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 10px;">Captures B2B exceptions</td>
-      <td style="border: 1px solid #ddd; padding: 10px;">Captures personal preferences</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 10px;">Persists approval chains</td>
-      <td style="border: 1px solid #ddd; padding: 10px;">Persists behavioral patterns</td>
-    </tr>
-    <tr>
       <td style="border: 1px solid #ddd; padding: 10px;">Cloud-deployed</td>
       <td style="border: 1px solid #ddd; padding: 10px;">Device-deployed</td>
     </tr>
   </tbody>
 </table>
 
-When you open your phone to decide whether to respond to a message, an on-device model sees: the message content, your recent conversation history, your current location, your calendar for today, the time since you last texted that person, and the pattern of when you typically respond. A cloud model sees: the message content, maybe.
+When you decide whether to respond to a message, an on-device model sees the full picture: message content, conversation history, your location, calendar, and response patterns. A cloud model sees the message content, maybe.
 
-The device is already in the execution path. With models like MobileLLM-Pro offering 128k context, the question isn't whether there's enough capability to capture decision traces. It's whether anyone is building systems to do so.
+## What a Personal Context Graph Stores
 
-## What a Personal Context Graph Actually Looks Like
+A personal context graph would capture entities (people, places, topics, decisions), decision traces (deviations from patterns, surrounding context, outcomes), and precedents ("stressed + raining + partner working late → Thai food").
 
-Drawing from [research on AI memory systems](https://mem0.ai/blog/ai-memory-layer-guide) and [local knowledge graph implementations](https://www.marktechpost.com/2025/04/26/implementing-persistent-memory-using-a-local-knowledge-graph-in-claude-desktop/), a personal context graph would store:
+This graph lives on-device, updates continuously, and never leaves your phone. It gives the model access to *why* you made past decisions, not just *what* you did.
 
-**Entities:**
-- People (relationships, communication patterns, shared history)
-- Places (frequency, time-of-day patterns, activities associated)
-- Topics (interests, evolving preferences, knowledge level)
-- Decisions (what you chose, what you rejected, why)
-
-**Decision Traces:**
-- When you deviated from your usual pattern
-- What context surrounded that deviation
-- What the outcome was
-- Whether you repeated the decision
-
-**Precedents:**
-- "Last time I was stressed + raining + partner working late → Thai food"
-- "Vague meeting agendas from X → decline or ask for details first"
-- "Products recommended by Y → higher trust, less research"
-
-This graph lives on-device. It updates continuously from your actual behavior. It never leaves your phone. And it makes the on-device model dramatically more useful because the model has access to *why* you made past decisions, not just *what* you did.
-
-The reasoning capabilities of MobileLLM-R1 are particularly relevant here: building a personal context graph isn't just pattern matching. It requires inference about *why* decisions were made, connecting disparate signals into coherent explanations. A model that can score 15.5 on AIME can certainly reason about why you skipped lunch or chose to walk instead of drive.
+Building this isn't just pattern matching. It requires inference about *why* decisions were made. A model that scores 15.5 on AIME can reason about why you skipped lunch or chose to walk instead of drive.
 
 ## The Competitive Moat
 
-If context graphs become the real source of truth for autonomy, then whoever builds the personal context graph captures an unprecedented moat.
+Whoever builds the personal context graph captures an unprecedented moat. Cloud providers can't replicate it because users won't share the data. Competitors can't transfer it since the graph is local and personal. The switching cost is your entire behavioral history.
 
-Cloud providers can't replicate it because users won't share the data. Competitors can't transfer it since the graph is local and personal. The switching cost is your entire behavioral history and preference model.
-
-This is stronger than a traditional data moat. It's not just that you have the user's data. It's that the user's data is *about how they make decisions*, which is both more valuable and more private than transactional data.
-
-The race is on to own the personal context layer. And the teams building capable on-device models, ones that can actually reason about context rather than just pattern-match -have a significant head start.
-
-## What This Means for On-Device Model Development
-
-The MobileLLM progression offers a roadmap: architecture-first design enables constrained hardware deployment. Reasoning capability unlocks decision-making applications. Long context (128k in MobileLLM-Pro) enables full decision trace history. Efficient quantization (int4 with <1.3% degradation) allows continuous background operation. And open training recipes enable fine-tuning for specific domains like health, finance, or relationships.
+This is stronger than a traditional data moat. The user's data is *about how they make decisions*, which is more valuable and more private than transactional data.
 
 ## The Stakes
 
-Enterprise context graphs are widely considered a trillion-dollar opportunity. For personal AI, the market is arguably larger. Gartner predicts [75% of enterprise data will be processed at the edge by 2025](https://blog.premai.io/small-language-models-slms-for-efficient-edge-deployment/), and consumer devices outnumber enterprise deployments by orders of magnitude.
+Enterprise context graphs are widely considered a trillion-dollar opportunity. For personal AI, the market is arguably larger, as consumer devices outnumber enterprise deployments by orders of magnitude.
 
-But beyond market size, the personal context graph represents something more fundamental: AI that actually knows you.
+But beyond market size, the personal context graph represents AI that actually knows you. Not AI trained on internet text that can simulate knowing you. AI that has observed your decisions, captured your reasoning, and built a model of *how you think*.
 
-Not AI that has been trained on internet text and can simulate knowing you. Not AI that has access to your last ten messages and can guess at your context. AI that has observed your decisions, captured your reasoning, and built a model of *how you think*.
-
-This can only be built on-device. It requires models that can reason, not just respond. And the trajectory from MobileLLM through R1, R1.5, and Pro shows that such models now exist.
+This can only be built on-device. It requires models that can reason, not just respond. And the trajectory from MobileLLM through R1 and Pro shows that such models now exist.
 
 ---
 
-*The infrastructure for personal context graphs is shipping now. MobileLLM-Pro offers 128k context and outperforms larger models on reasoning benchmarks. MobileLLM-R1 achieves 5× the accuracy of comparable open-source models on mathematical reasoning. The architectural patterns are understood: efficient attention, weight sharing, knowledge distillation. What's missing is the intentional design of systems that capture decision traces, not just actions, but the context that explains them.*
-
-*The trillion-dollar question: who will build it first?*
+*The infrastructure is shipping now. What's missing is the intentional design of systems that capture decision traces, not just actions, but the context that explains them. Who will build it first?*
 
 ---
 
 ## References
 
 - Liu et al. ["MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases"](https://arxiv.org/abs/2402.14905). ICML 2024.
-- Meta AI. ["MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes"](https://arxiv.org/abs/2509.24945). September 2025.
-- Meta AI. ["MobileLLM-Pro: 1B On-Device Model with 128k Context"](https://arxiv.org/abs/2511.06719). October 2025.
-- NVIDIA Research. ["Small Language Models are the Future of Agentic AI"](https://arxiv.org/abs/2506.02153). June 2025.
-- Google. ["Introducing Gemma 3n: The Developer Guide"](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/). 2025.
-- Apple Machine Learning Research. ["Updates to Apple's On-Device and Server Foundation Language Models"](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates). 2025.
-- Mem0. ["AI Memory Layer Guide"](https://mem0.ai/blog/ai-memory-layer-guide). December 2025.
-- TechPolicy.Press. ["The Privacy Challenges of Emerging Personalized AI Services"](https://www.techpolicy.press/the-privacy-challenges-of-emerging-personalized-ai-services/).
+- Meta AI. ["MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners"](https://arxiv.org/abs/2509.24945). 2025.
+- Meta AI. ["MobileLLM-Pro"](https://arxiv.org/abs/2511.06719). 2025.
+- NVIDIA Research. ["Small Language Models are the Future of Agentic AI"](https://arxiv.org/abs/2506.02153). 2025.
