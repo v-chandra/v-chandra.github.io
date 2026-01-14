@@ -159,17 +159,7 @@ The race is on to own the personal context layer. And the teams building capable
 
 ## What This Means for On-Device Model Development
 
-The MobileLLM progression offers a roadmap for building personal context graphs:
-
-**Architecture-first thinking pays off.** The deep-thin architecture, embedding sharing, and grouped-query attention in MobileLLM weren't just optimizations. They were prerequisites for running capable models on constrained hardware. The same architectural discipline applies to context graph systems: efficient storage, incremental updates, and cache-friendly access patterns matter more than raw capability.
-
-**Reasoning capability unlocks new use cases.** The jump from MobileLLM to MobileLLM-R1 wasn't just benchmark improvement. It enabled fundamentally new applications. A model that can reason about math can also reason about decisions: "You usually respond within an hour to messages from close friends, but you've left this one for three hours. Your calendar shows back-to-back meetings and you're in a location you don't usually visit. Should I draft a quick reply explaining you're busy?"
-
-**Long context enables decision traces.** MobileLLM-Pro's 128k context window isn't just for document summarization. It's for maintaining the full history of a decision sequence. Why did you book that flight? To understand, the model needs to see your initial search, the options you considered, the price alerts you set, the calendar conflicts you resolved, and the final booking. That's a long context problem.
-
-**Quantization preserves capability.** MobileLLM-Pro achieves int4 quantization with less than 1.3% quality degradation. This means the context graph system can run continuously, always capturing and reasoning, without draining the battery. The 0.035 J/token efficiency of MobileLLM-350M translates to all-day operation, which is exactly what continuous context capture requires.
-
-**Open training recipes enable ecosystem development.** The MobileLLM-R1 release included complete training recipes and data sources. This isn't just academic transparency. It's ecosystem building. Personal context graphs will require models fine-tuned on specific decision domains (health, finance, relationships), and open recipes make that possible without starting from scratch.
+The MobileLLM progression offers a roadmap: architecture-first design enables constrained hardware deployment. Reasoning capability unlocks decision-making applications. Long context (128k in MobileLLM-Pro) enables full decision trace history. Efficient quantization (int4 with <1.3% degradation) allows continuous background operation. And open training recipes enable fine-tuning for specific domains like health, finance, or relationships.
 
 ## The Stakes
 
