@@ -110,6 +110,7 @@ This can only be built on-device. It requires models that can reason, not just r
 
 ## References
 
+- Foundation Capital. ["Context Graphs: AI's Trillion-Dollar Opportunity"](https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/). 2025.
 - Liu et al. ["MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases"](https://arxiv.org/abs/2402.14905). ICML 2024.
 - Meta AI. ["MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners"](https://arxiv.org/abs/2509.24945). 2025.
 - Meta AI. ["MobileLLM-Pro"](https://arxiv.org/abs/2511.06719). 2025.
