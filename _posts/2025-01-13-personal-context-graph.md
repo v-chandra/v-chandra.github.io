@@ -44,37 +44,19 @@ But these are workarounds to a fundamental architectural mismatch: cloud models 
 
 ## The MobileLLM Thesis: Architecture Over Scale
 
-The conventional wisdom in AI has been simple: bigger is better. More parameters, more data, more compute. But a different thesis has been quietly proven correct: **for on-device applications, architecture matters more than scale.**
+The conventional wisdom in AI has been simple: bigger is better. But for on-device applications, **architecture matters more than scale.**
 
-[MobileLLM](https://arxiv.org/abs/2402.14905), introduced at ICML 2024, demonstrated this definitively. By focusing on architectural innovations rather than parameter count, the MobileLLM team achieved something counterintuitive: a 350M parameter model that outperformed prior state-of-the-art models of similar size by 4.3% -not through more data or compute, but through smarter design.
-
-The key insights:
-
-**Deep and thin beats wide and shallow.** At the sub-billion scale, increasing depth while keeping width constrained captures more abstract concepts than the reverse. This defies traditional scaling laws but makes physical sense: mobile devices have limited memory bandwidth, and deep-thin architectures are more cache-friendly.
-
-**Embedding sharing is critical at small scale.** In a 125M parameter model, embeddings account for over 20% of total parameters (versus just 3.7% in LLaMA-70B). MobileLLM's weight sharing between input and output layers reduced parameters by 11.8% with only 0.2 points accuracy drop -and that drop was recovered by reallocating saved parameters to additional layers.
-
-**Grouped-query attention enables efficiency without sacrifice.** Combined with block-wise weight sharing, MobileLLM achieved production-ready inference: the 350M model consumes only 0.035 J/token, allowing conversational use for an entire day on a single iPhone charge. The 125M model runs at 50 tokens/second -compared to 3-6 tokens/second for LLaMA 7B on the same device.
-
-This wasn't just an academic exercise. It was the foundation for what came next.
+[MobileLLM](https://arxiv.org/abs/2402.14905) (ICML 2024) proved this by building a 350M parameter model that outperformed prior state-of-the-art by 4.3% through smarter design: deep-thin architectures, embedding sharing, and grouped-query attention. The result was production-ready efficiency - the 125M model runs at 50 tokens/second on an iPhone, compared to 3-6 for LLaMA 7B.
 
 ## From Chat to Reasoning: MobileLLM-R1
 
 If 2024 proved small models could be useful, 2025 proved they could *think*.
 
-[MobileLLM-R1](https://arxiv.org/abs/2509.24945) extended the MobileLLM architecture to reasoning tasks -math, code, and scientific problems. The results challenged assumptions about what sub-billion parameter models could achieve:
+[MobileLLM-R1](https://arxiv.org/abs/2509.24945) brought reasoning to sub-billion parameter models. MobileLLM-R1-950M achieves 5× higher accuracy on MATH compared to OLMo-1.24B, and scores 15.5 on AIME versus 0.6 for comparable models. It matches Qwen3-0.6B on reasoning benchmarks despite training on 88% fewer tokens.
 
-- **MobileLLM-R1-950M achieves 5× higher accuracy on MATH** compared to OLMo-1.24B, and 2× higher than SmolLM2-1.7B
-- On AIME, it scores 15.5 compared to 0.6 for OLMo-2-1.48B -a 25× improvement
-- Despite training on only 11.7% of the tokens used by Qwen3's 36T-token corpus, MobileLLM-R1-950M matches or surpasses Qwen3-0.6B across multiple reasoning benchmarks
+The line continued with MobileLLM-R1.5 (knowledge distillation) and [MobileLLM-Pro](https://howaiworks.ai/blog/mobilellm-pro-announcement) - a 1B model with 128k context that outperforms Gemma 3 1B and Llama 3.2 1B while achieving int4 quantization with less than 1.3% quality loss.
 
-The architectural innovations continued: 32k context length (up from 4k in base models), grouped-query attention with 24 attention heads and 6 KV heads, and block-wise weight sharing that reduces parameter count without latency penalties.
-
-MobileLLM-R1.5 pushed further with on-policy knowledge distillation, using larger models as teachers while maintaining the sub-billion parameter footprint required for edge deployment.
-
-Then came [MobileLLM-Pro](https://howaiworks.ai/blog/mobilellm-pro-announcement): a 1B parameter model with 128k context that outperforms Gemma 3 1B by 5.7% and Llama 3.2 1B by 7.9% across reasoning, knowledge, and long-context retrieval. It achieves int4 quantization with less than 1.3% quality degradation, 1.8× faster prefill through 3:1 local-global attention, and reduces KV cache from 117MB to 40MB for 8k context.
-
-This progression -from MobileLLM to R1 to R1.5 to Pro -represents the maturation of on-device AI from "good enough" to "genuinely capable." These aren't toy models. They're models that can reason about your context and make decisions.
+These aren't toy models. They can reason about context and make decisions.
 
 ## Why This Matters for Context Graphs
 
