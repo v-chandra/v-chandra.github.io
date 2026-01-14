@@ -103,13 +103,36 @@ Enterprise AI startups have a structural advantage when they "sit in the executi
 
 On-device models have the same structural advantage for personal decisions:
 
-| Enterprise Context Graph | Personal Context Graph |
-|--------------------------|------------------------|
-| Sits in deal flow | Sits in daily decisions |
-| Sees CRM + Slack + Zoom | Sees calendar + messages + location + apps |
-| Captures B2B exceptions | Captures personal preferences |
-| Persists approval chains | Persists behavioral patterns |
-| Cloud-deployed | Device-deployed |
+<table>
+  <thead>
+    <tr>
+      <th>Enterprise Context Graph</th>
+      <th>Personal Context Graph</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sits in deal flow</td>
+      <td>Sits in daily decisions</td>
+    </tr>
+    <tr>
+      <td>Sees CRM + Slack + Zoom</td>
+      <td>Sees calendar + messages + location + apps</td>
+    </tr>
+    <tr>
+      <td>Captures B2B exceptions</td>
+      <td>Captures personal preferences</td>
+    </tr>
+    <tr>
+      <td>Persists approval chains</td>
+      <td>Persists behavioral patterns</td>
+    </tr>
+    <tr>
+      <td>Cloud-deployed</td>
+      <td>Device-deployed</td>
+    </tr>
+  </tbody>
+</table>
 
 When you open your phone to decide whether to respond to a message, an on-device model sees: the message content, your recent conversation history, your current location, your calendar for today, the time since you last texted that person, and the pattern of when you typically respond. A cloud model sees: the message content, maybe.
 
