@@ -11,9 +11,17 @@ The real context graph opportunity isn't in the enterprise. It's in your pocket.
 
 ## The Decision Trace Problem, Personalized
 
-Traditional systems capture *what* happened, but not *why*. Your phone knows you ordered Thai food. It doesn't know you ordered it because you were stressed, it was raining, and your partner was working late. Your calendar shows you declined a meeting. It doesn't capture that you declined because you've been in back-to-backs all week and the agenda was vague.
+Traditional systems capture *what* happened, but not *why*. A CRM stores "20% discount applied." It doesn't store that Finance approved it because the customer had a similar deal last quarter and the VP made an exception based on expansion plans mentioned in a call.
 
-These personal decision traces are everywhere: why you swiped left, why you chose that route, why you replied to one email immediately but let another sit.
+The same problem exists at the personal level, and it's even more acute.
+
+Your phone knows you ordered Thai food. It doesn't know you ordered it because you were stressed, it was raining, and your partner was working late. Your calendar shows you declined a meeting. It doesn't capture that you declined because you've been in back-to-backs all week and the agenda was vague.
+
+These personal decision traces are everywhere:
+- Why you swiped left or right
+- Why you chose that route instead of the faster one
+- Why you replied to one email immediately but let another sit for days
+- Why you bought the cheaper option this time but splurged last time
 
 No cloud service can capture this context. Not because of technical limitations, but because **you would never upload it.**
 
