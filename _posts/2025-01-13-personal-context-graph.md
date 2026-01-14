@@ -103,33 +103,33 @@ Enterprise AI startups have a structural advantage when they "sit in the executi
 
 On-device models have the same structural advantage for personal decisions:
 
-<table>
+<table style="width:100%; border-collapse: collapse; margin: 1.5em 0;">
   <thead>
-    <tr>
-      <th>Enterprise Context Graph</th>
-      <th>Personal Context Graph</th>
+    <tr style="background-color: #f5f5f5;">
+      <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Enterprise Context Graph</th>
+      <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Personal Context Graph</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Sits in deal flow</td>
-      <td>Sits in daily decisions</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Sits in deal flow</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Sits in daily decisions</td>
     </tr>
     <tr>
-      <td>Sees CRM + Slack + Zoom</td>
-      <td>Sees calendar + messages + location + apps</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Sees CRM + Slack + Zoom</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Sees calendar + messages + location + apps</td>
     </tr>
     <tr>
-      <td>Captures B2B exceptions</td>
-      <td>Captures personal preferences</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Captures B2B exceptions</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Captures personal preferences</td>
     </tr>
     <tr>
-      <td>Persists approval chains</td>
-      <td>Persists behavioral patterns</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Persists approval chains</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Persists behavioral patterns</td>
     </tr>
     <tr>
-      <td>Cloud-deployed</td>
-      <td>Device-deployed</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Cloud-deployed</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Device-deployed</td>
     </tr>
   </tbody>
 </table>
