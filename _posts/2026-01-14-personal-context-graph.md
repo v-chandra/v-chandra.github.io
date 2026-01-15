@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Personal Context Graph: Why On-Device AI Will Capture The Layer That Cloud Models Can't"
+title: "The Personal Context Graph: Why On-Device AI will capture the layer that cloud models can't"
 date: 2026-01-14
 ---
 
