@@ -6,6 +6,8 @@ date: 2026-01-18
 
 A few years ago, watching teams throw hardware at AI's memory problems, I started thinking: what if the bottleneck isn't hardware, but how we use it?
 
+![AI Memory Wall](/images/AI_memory_wall.png)
+
 The AI industry is betting on hardware to solve the memory bottleneck. HBM4 is arriving. Processing-in-memory is in development. New accelerators are on the roadmap.
 
 Meanwhile, LLM inference is hitting a wall due to memory constraints, not compute. Leading AI labs are losing billions annually on inference costs. Compute has scaled at 3x every two years while memory bandwidth has only scaled at 1.6x over the past two decades.
