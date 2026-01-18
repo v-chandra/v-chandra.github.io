@@ -6,7 +6,7 @@ date: 2026-01-18
 
 A few years ago, watching teams throw hardware at AI's memory problems, I started thinking: what if the bottleneck isn't hardware, but how we use it?
 
-![AI Memory Wall](/images/AI_memory_wall.png)
+<img src="/images/AI_memory_wall.png" alt="AI Memory Wall" width="75%">
 
 The AI industry is betting on hardware to solve the memory bottleneck. HBM4 is arriving. Processing-in-memory is in development. New accelerators are on the roadmap.
 
