@@ -10,6 +10,8 @@ The thesis is compelling. But it's focused on the wrong scale.
 
 The real context graph opportunity isn't in the enterprise. It's in your pocket.
 
+![Personal Context Graph](/images/personal_context_graph.png)
+
 ## The Decision Trace Problem, Personalized
 
 Traditional systems capture *what* happened, but not *why*. A CRM stores "20% discount applied." It doesn't store that Finance approved it because the customer had a similar deal last quarter and the VP made an exception based on expansion plans mentioned in a call.
