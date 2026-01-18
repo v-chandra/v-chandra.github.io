@@ -46,21 +46,21 @@ The conventional wisdom treats memory as a hardware problem requiring hardware s
 
 Techniques like LoRA reduce memory for fine-tuning, but they don't help with pre-training from scratch, where memory pressure is most severe.
 
-The insight behind [APOLLO](https://arxiv.org/abs/2412.05270): Adam's per-parameter adaptation is overkill. Learning rate scaling at the channel or tensor level captures most of the benefit. By projecting into a low-rank auxiliary space, APOLLO achieves AdamW-level performance with SGD-level memory.
+The insight behind [APOLLO](https://github.com/zhuhanqing/APOLLO): Adam's per-parameter adaptation is overkill. Learning rate scaling at the channel or tensor level captures most of the benefit. By projecting into a low-rank auxiliary space, APOLLO achieves AdamW-level performance with SGD-level memory.
 
 The practical impact: training LLaMA-7B from scratch on a single GPU with 12GB memory. This isn't fine-tuning. It's full pre-training, previously requiring eight A100-80GB GPUs, now possible on a consumer-grade GPU like the RTX 4090.
 
-This isn't an isolated result. [GaLore](https://arxiv.org/abs/2403.03507), developed independently, takes a similar gradient projection approach and also enables 7B training on consumer GPUs. The convergence suggests the insight is robust: adaptive optimizers carry unnecessary state.
+This isn't an isolated result. [GaLore](https://github.com/jiaweizzhao/GaLore), developed independently, takes a similar gradient projection approach and also enables 7B training on consumer GPUs. The convergence suggests the insight is robust: adaptive optimizers carry unnecessary state.
 
 ### Inference: The Quantization Frontier
 
 Weight quantization is the primary attack surface. The typical approach: quantize to 4-bit, lose a few points of accuracy, reduce memory 4x.
 
-[ParetoQ](https://arxiv.org/abs/2502.02631) reveals this framing is wrong. By building a unified framework for quantization-aware training from 1-bit to 4-bit, we discovered **the Pareto frontier isn't monotonic**. At 3-4 bits, the quantized model is essentially a compressed version of the original. But at 2 bits and below, the representations change fundamentally. The model isn't learning to compress. It's learning to represent information differently.
+[ParetoQ](https://github.com/facebookresearch/ParetoQ) reveals this framing is wrong. By building a unified framework for quantization-aware training from 1-bit to 4-bit, we discovered **the Pareto frontier isn't monotonic**. At 3-4 bits, the quantized model is essentially a compressed version of the original. But at 2 bits and below, the representations change fundamentally. The model isn't learning to compress. It's learning to represent information differently.
 
 ParetoQ's 1.58-bit 600M model outperforms state-of-the-art 3B models. That's 5x fewer parameters with better accuracy. Why? At extreme low bits, the model can't rely on precise values, so gradients push toward distributed, redundant encodings. Constraint becomes architecture.
 
-[SpinQuant](https://arxiv.org/abs/2405.16406) attacks a different bottleneck: outliers that blow up quantization error. SpinQuant's insight: rotation matrices can reshape activation distributions without changing model outputs. The result: 4-bit quantization of weights, activations, and KV-cache with under 3% accuracy loss, where previous methods degraded by over 25%. [SmoothQuant](https://arxiv.org/abs/2211.10438) takes a similar approach, smoothing outliers between activations and weights to enable 8-bit quantization with minimal loss.
+[SpinQuant](https://github.com/facebookresearch/SpinQuant) attacks a different bottleneck: outliers that blow up quantization error. SpinQuant's insight: rotation matrices can reshape activation distributions without changing model outputs. The result: 4-bit quantization of weights, activations, and KV-cache with under 3% accuracy loss, where previous methods degraded by over 25%. [SmoothQuant](https://github.com/mit-han-lab/smoothquant) takes a similar approach, smoothing outliers between activations and weights to enable 8-bit quantization with minimal loss.
 
 These techniques show what's possible at 4-bit. But what if you train at low precision from the start? Microsoft's [BitNet](https://huggingface.co/microsoft/bitnet-b1.58-2B-4T) validates the extreme quantization thesis: a 2B model trained natively at 1.58 bits fits in 400MB (versus 4GB+ for standard models) and runs efficiently on a single CPU.
 
@@ -68,7 +68,7 @@ These techniques show what's possible at 4-bit. But what if you train at low pre
 
 The approaches above optimize existing models. But what if you designed for memory constraints from the start?
 
-[MobileLLM](https://arxiv.org/abs/2402.14905) explores this for sub-billion parameter models. The core finding: **at small scale, architecture matters more than parameter count**.
+[MobileLLM](https://github.com/facebookresearch/MobileLLM) explores this for sub-billion parameter models. The core finding: **at small scale, architecture matters more than parameter count**.
 
 Conventional wisdom from large models suggests width matters more than depth. But at sub-billion scale, deep-thin architectures (more layers, smaller hidden dimension) consistently outperform wide-shallow ones. MobileLLM also exploits scaling asymmetries: embedding layers account for 20% of parameters in small models versus 3.7% in large ones, so weight sharing yields outsized savings.
 
