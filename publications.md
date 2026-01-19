@@ -275,7 +275,7 @@ permalink: /publications/
 
 ---
 
-## Hardware & Systems
+## Systems ML
 
 1. DREAM: A Dynamic Scheduler for Dynamic Real-time Multi-model ML Workloads,
 **ASPLOS (2024)**. [[PDF]](https://arxiv.org/pdf/2212.03414)
