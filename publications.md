@@ -16,7 +16,16 @@ permalink: /publications/
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2509.24945)
 
 1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers
-**ACL (2025)** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf) 
+**ACL (2025)** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf)
+
+1. Breaking Down Power Barriers in On-Device Streaming ASR: Insights and Solutions,
+**NAACL (2025)** [[PDF]](https://aclanthology.org/2025.naacl-long.1.pdf)
+
+1. Self-Vocabularizing Training for Neural Machine Translation,
+**arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2503.13837)
+
+1. Streamlining Language Models via Semantic Basis Analysis,
+**TMLR (2025)**
 
 1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2502.02631?)
@@ -36,11 +45,23 @@ permalink: /publications/
 1. Efficient Track Anything,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2411.18933)
 
+1. SyncFlow: Toward Temporally Aligned Joint Audio-Video Generation from Text,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2412.15220)
+
+1. Llama Guard 3-1B-INT4: Compact and Efficient Safeguard for Human-AI Conversations,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2411.17713)
+
 1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.17434)
 
 1. Agent-as-a-Judge: Evaluate Agents with Agents,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
+
+1. Scaling Parameter-Constrained Language Models with Quality Data,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.03083)
+
+1. Target-aware Language Modeling via Granular Data Sampling,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2409.14705)
 
 1. High fidelity text-guided music generation and editing via single-stage flow matching,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2407.03648)
@@ -76,6 +97,12 @@ Sparse-view 3D Object Reconstruction,
 1. Folding Attention: Memory and Power Optimization for On-Device Transformer-based Streaming
 Speech Recognition,
 **ICASSP 2024**. [[PDF]](https://arxiv.org/pdf/2309.07988)
+
+1. Data Efficient Reflow for Few Step Audio Generation,
+**SLT (2024)**. [[PDF]](https://ieeexplore.ieee.org/document/10832165/)
+
+1. Towards Temporally Synchronized Visually Indicated Sounds Through Scale-Adapted Positional Embeddings,
+**NeurIPS Workshop (2024)**. [[PDF]](https://openreview.net/forum?id=HZq8Gakf6e)
 
 1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
 **ACL Findings (2024)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
@@ -116,6 +143,9 @@ for Target Applications,
 
 1. FoleyGen: Visually-Guided Audio Generation,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.10537.pdf)
+
+1. SqueezeSAM: User Friendly Mobile Interactive Segmentation,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2312.06736)
 
 1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
 **ACL 2023**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
