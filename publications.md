@@ -35,7 +35,7 @@ permalink: /publications/
   </select>
 </div>
 
-<div id="topic-view" class="publication-view active">
+<div id="topic-view" class="publication-view active" markdown="1">
 
 ## Efficient AI & Model Compression
 
@@ -318,7 +318,7 @@ permalink: /publications/
 
 </div>
 
-<div id="chronological-view" class="publication-view">
+<div id="chronological-view" class="publication-view" markdown="1">
 
 ## 2026
 
