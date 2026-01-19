@@ -30,12 +30,12 @@ permalink: /publications/
 <div class="view-toggle">
   <label for="view-select"><strong>View by:</strong></label>
   <select id="view-select" onchange="toggleView(this.value)">
-    <option value="topic">Topic</option>
     <option value="chronological">Chronological</option>
+    <option value="topic">Topic</option>
   </select>
 </div>
 
-<div id="topic-view" class="publication-view active" markdown="1">
+<div id="topic-view" class="publication-view" markdown="1">
 
 ## Efficient AI & Model Compression
 
@@ -318,7 +318,7 @@ permalink: /publications/
 
 </div>
 
-<div id="chronological-view" class="publication-view" markdown="1">
+<div id="chronological-view" class="publication-view active" markdown="1">
 
 ## 2026
 
