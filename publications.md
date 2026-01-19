@@ -348,7 +348,7 @@ permalink: /publications/
 **NAACL SRW** [[PDF]](https://aclanthology.org/2025.naacl-srw.16.pdf)
 
 1. Streamlining Language Models via Semantic Basis Analysis,
-**TMLR**
+**TMLR** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
 
 1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2502.02631?)
