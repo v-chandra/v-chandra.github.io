@@ -22,7 +22,7 @@ permalink: /publications/
 **NAACL (2025)** [[PDF]](https://aclanthology.org/2025.naacl-long.1.pdf)
 
 1. Self-Vocabularizing Training for Neural Machine Translation,
-**arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2503.13837)
+**NAACL SRW (2025)**. [[PDF]](https://aclanthology.org/2025.naacl-srw.16.pdf)
 
 1. Streamlining Language Models via Semantic Basis Analysis,
 **TMLR (2025)**
@@ -58,10 +58,10 @@ permalink: /publications/
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
 
 1. Scaling Parameter-Constrained Language Models with Quality Data,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.03083)
+**EMNLP Industry (2024)**. [[PDF]](https://aclanthology.org/2024.emnlp-industry.8.pdf)
 
-1. Target-aware Language Modeling via Granular Data Sampling,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2409.14705)
+1. Target-Aware Language Modeling via Granular Data Sampling,
+**EMNLP (2024)**. [[PDF]](https://aclanthology.org/2024.emnlp-main.719.pdf)
 
 1. High fidelity text-guided music generation and editing via single-stage flow matching,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2407.03648)
