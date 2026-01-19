@@ -122,7 +122,7 @@ permalink: /publications/
 **NAACL SRW (2025)**. [[PDF]](https://aclanthology.org/2025.naacl-srw.16.pdf)
 
 1. Streamlining Language Models via Semantic Basis Analysis,
-**TMLR (2025)**
+**TMLR (2025)** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
 
 1. Agent-as-a-Judge: Evaluate Agents with Agents,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
