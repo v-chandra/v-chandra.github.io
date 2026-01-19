@@ -18,48 +18,46 @@ html {
 }
 
 body {
-  background: $white;
-  font: 20px/1.7 $serif;
-  color: #292929;
+	background: $white;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 680px;
-  padding: 0 24px;
+  //max-width: 740px;
+  max-width: 900px;
+  padding: 0 10px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $sans;
-  color: #292929;
-  font-weight: 600;
-  letter-spacing: -0.02em;
-  line-height: 1.3;
-  margin: 1.5em 0 0.5em;
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  font-weight: bold;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.3;
+    line-height: 1.4;
   }
 }
 
 h1 {
-  font-size: 40px;
-  line-height: 1.2;
-  margin-top: 0;
+  font-size: 30px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 28px;
-  margin-top: 2em;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 22px;
+  font-size: 20px;
 }
 
 h4 {
@@ -68,18 +66,15 @@ h4 {
 }
 
 p {
-  margin: 1.25em 0;
+  margin: 15px 0;
 }
 
 a {
-  color: #292929;
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
-  cursor: pointer;
+  color: $blue;
+  text-decoration: none;
+	cursor: pointer;
   &:hover, &:active {
-    color: #292929;
-    text-decoration-thickness: 2px;
+    color: $blue;
   }
 }
 
@@ -198,15 +193,12 @@ img {
 
 .site-name {
   margin: 0;
-  color: #292929;
+  color: $darkGray;
   cursor: pointer;
-  font-family: $sans;
-  font-weight: 600;
-  font-size: 24px;
-  letter-spacing: -0.02em;
-  a {
-    text-decoration: none;
-  }
+  font-family: $helveticaNeue;
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 1px;
 }
 
 .site-description {
@@ -221,30 +213,27 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px;
-  font-family: $sans;
-  font-size: 16px;
+  margin-top: 23px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 18px;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 15px;
+    font-size: 16px;
   }
 
   a {
-    margin-left: 24px;
-    color: #292929;
+    margin-left: 20px;
+    color: $darkGray;
     text-align: right;
-    font-weight: 500;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
+    font-weight: 300;
+    letter-spacing: 1px;
 
     @include mobile {
-      margin: 0 12px;
+      margin: 0 10px;
+      color: $blue;
     }
   }
 }
@@ -265,11 +254,11 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.5em 0;
-    border-left: 3px solid #292929;
-    padding: 0 0 0 24px;
-    color: #292929;
-    font-size: 20px;
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
     font-style: italic;
   }
 
@@ -278,24 +267,21 @@ nav {
   }
 
   .read-more {
+    text-transform: uppercase;
     font-size: 15px;
-    font-family: $sans;
   }
 }
 
 .wrapper-footer {
-  margin-top: 80px;
-  border-top: 1px solid #e6e6e6;
-  border-bottom: none;
-  background-color: $white;
+  margin-top: 50px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $lightGray;
 }
 
 footer {
-  padding: 24px 0;
+  padding: 20px 0;
   text-align: center;
-  font-family: $sans;
-  font-size: 14px;
-  color: $gray;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
