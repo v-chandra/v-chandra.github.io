@@ -45,15 +45,6 @@ permalink: /publications/
 1. MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2509.24945)
 
-1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
-**ICML (2024)**. [[PDF]](https://arxiv.org/pdf/2402.14905)
-
-1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
-**ACL Findings (2024)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
-
-1. SpinQuant: LLM Quantization with Learned Rotations,
-**arXiv (2024)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
-
 1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2502.02631?)
 
@@ -74,6 +65,15 @@ permalink: /publications/
 
 1. Target-Aware Language Modeling via Granular Data Sampling,
 **EMNLP (2024)**. [[PDF]](https://aclanthology.org/2024.emnlp-main.719.pdf)
+
+1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
+**ICML (2024)**. [[PDF]](https://arxiv.org/pdf/2402.14905)
+
+1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
+**ACL Findings (2024)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
+
+1. SpinQuant: LLM Quantization with Learned Rotations,
+**arXiv (2024)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
 
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
