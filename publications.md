@@ -37,7 +37,7 @@ permalink: /publications/
 
 <div id="topic-view" class="publication-view" markdown="1">
 
-## Efficient AI & Model Compression
+## Language Models
 
 1. MobileLLM-Pro Technical Report,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2511.06719)
@@ -45,8 +45,51 @@ permalink: /publications/
 1. MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2509.24945)
 
+1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
+**ICML (2024)**. [[PDF]](https://arxiv.org/pdf/2402.14905)
+
+1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
+**ACL Findings (2024)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
+
+1. SpinQuant: LLM Quantization with Learned Rotations,
+**arXiv (2024)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
+
 1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2502.02631?)
+
+1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers,
+**ACL (2025)** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf)
+
+1. Self-Vocabularizing Training for Neural Machine Translation,
+**NAACL SRW (2025)**. [[PDF]](https://aclanthology.org/2025.naacl-srw.16.pdf)
+
+1. Streamlining Language Models via Semantic Basis Analysis,
+**TMLR (2025)** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
+
+1. Agent-as-a-Judge: Evaluate Agents with Agents,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
+
+1. Scaling Parameter-Constrained Language Models with Quality Data,
+**EMNLP Industry (2024)**. [[PDF]](https://aclanthology.org/2024.emnlp-industry.8.pdf)
+
+1. Target-Aware Language Modeling via Granular Data Sampling,
+**EMNLP (2024)**. [[PDF]](https://aclanthology.org/2024.emnlp-main.719.pdf)
+
+1. An Introduction to Vision-Language Modeling,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
+
+1. MiniGPT-v2: Large Language Model As a Unified Interface for Vision-Language Multi-task Learning,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2310.09478.pdf)
+
+1. Revisiting Sample Size Determination in Natural Language Understanding,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
+
+1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
+**ACL (2023)**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
+
+---
+
+## Efficient AI & Model Compression
 
 1. APOLLO: SGD-like Memory, AdamW-level Performance,
 **MLSys (2025)** [[PDF]](https://proceedings.mlsys.org/paper_files/paper/2025/file/437bc4ccafd3fc6d4289bd10940be42b-Paper-Conference.pdf)
@@ -54,17 +97,8 @@ permalink: /publications/
 1. Llama Guard 3-1B-INT4: Compact and Efficient Safeguard for Human-AI Conversations,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2411.17713)
 
-1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
-**ICML (2024)**. [[PDF]](https://arxiv.org/pdf/2402.14905)
-
-1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
-**ACL Findings (2024)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
-
 1. Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts,
 **ACL Findings (2024)**. [[PDF]](https://arxiv.org/pdf/2306.04845.pdf)
-
-1. SpinQuant: LLM Quantization with Learned Rotations,
-**arXiv (2024)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
 
 1. Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.15877)
@@ -110,40 +144,6 @@ permalink: /publications/
 
 1. Deep Convolutional Neural Network Inference with Floating-point Weights and Fixed-point Activations,
 **arXiv (2017)**. [[PDF]](https://arxiv.org/pdf/1703.03073.pdf)
-
----
-
-## Language Models
-
-1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers,
-**ACL (2025)** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf)
-
-1. Self-Vocabularizing Training for Neural Machine Translation,
-**NAACL SRW (2025)**. [[PDF]](https://aclanthology.org/2025.naacl-srw.16.pdf)
-
-1. Streamlining Language Models via Semantic Basis Analysis,
-**TMLR (2025)** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
-
-1. Agent-as-a-Judge: Evaluate Agents with Agents,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
-
-1. Scaling Parameter-Constrained Language Models with Quality Data,
-**EMNLP Industry (2024)**. [[PDF]](https://aclanthology.org/2024.emnlp-industry.8.pdf)
-
-1. Target-Aware Language Modeling via Granular Data Sampling,
-**EMNLP (2024)**. [[PDF]](https://aclanthology.org/2024.emnlp-main.719.pdf)
-
-1. An Introduction to Vision-Language Modeling,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
-
-1. MiniGPT-v2: Large Language Model As a Unified Interface for Vision-Language Multi-task Learning,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2310.09478.pdf)
-
-1. Revisiting Sample Size Determination in Natural Language Understanding,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
-
-1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
-**ACL (2023)**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
 
 ---
 
