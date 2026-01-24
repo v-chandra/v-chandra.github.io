@@ -3,6 +3,7 @@ layout: post
 title: "On-Device LLMs: State of the Union, 2026"
 date: 2026-01-24
 published: true
+excerpt: "**Vikas Chandra** and **Raghuraman Krishnamoorthi** — Three years ago, running a language model on a phone meant a toy demo. Today, billion-parameter models run in real time on flagship devices."
 ---
 
 **Vikas Chandra** and **Raghuraman Krishnamoorthi**
