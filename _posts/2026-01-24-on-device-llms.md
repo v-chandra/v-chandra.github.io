@@ -12,7 +12,7 @@ Three years ago, running a language model on a phone meant a toy demo. Today, bi
 
 This post covers the latest: what's changed, what works, and where things are headed. We'll focus on techniques that have proven useful in practice, not just what looks good in papers.
 
-<p align="center"><img src="/images/on_device_llms.png" alt="On-Device LLMs" width="80%"></p>
+<p align="center"><img src="/images/on_device_llms.png" alt="On-Device LLMs" width="85%"></p>
 
 ## **Why On-Device LLMs?**
 
