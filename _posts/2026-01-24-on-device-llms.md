@@ -2,7 +2,7 @@
 layout: post
 title: "On-Device LLMs: State of the Union, 2026"
 date: 2026-01-24
-published: false
+published: true
 ---
 
 **Vikas Chandra** and **Raghuraman Krishnamoorthi**
