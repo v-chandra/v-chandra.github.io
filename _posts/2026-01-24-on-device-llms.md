@@ -77,11 +77,11 @@ The major labs have since converged on this insight:
 
 | Model | Sizes | Key Strength |
 | :---- | :---- | :---- |
-| **Llama 3.2** (Meta, 2024\) | 1B, 3B | 128K context, Qualcomm/MediaTek optimized |
-| **Gemma 3** (Google, 2025\) | 270M \- 27B | Extreme efficiency at small sizes |
-| **Phi-4** (Microsoft, 2025\) | 3.8B (mini), 14B | Phi-4-reasoning rivals o1-mini on math |
-| **SmolLM2** (HuggingFace, 2025\) | 135M, 360M, 1.7B | 11T training tokens, outperforms Llama 3.2 1B |
-| **Qwen2.5** (Alibaba, 2024\) | 0.5B, 1.5B | Very strong general small-model performance; good multilingual coverage |
+| **Llama 3.2** (Meta, 2024) | 1B, 3B | 128K context, Qualcomm/MediaTek optimized |
+| **Gemma 3** (Google, 2025) | 270M - 27B | Extreme efficiency at small sizes |
+| **Phi-4** (Microsoft, 2025) | 3.8B (mini), 14B | Phi-4-reasoning rivals o1-mini on math |
+| **SmolLM2** (HuggingFace, 2025) | 135M, 360M, 1.7B | 11T training tokens, outperforms Llama 3.2 1B |
+| **Qwen2.5** (Alibaba, 2024) | 0.5B, 1.5B | Very strong general small-model performance; good multilingual coverage |
 
 The pattern across all of these: data quality and training methodology matter as much as architecture. Phi-4 uses high-quality synthetic datasets. SmolLM2 introduces specialized math and code datasets (FineMath, Stack-Edu). Gemma 3 uses knowledge distillation from larger models. You're not just fighting for parameter efficiency; you're fighting for every capability point at a fixed size.
 
@@ -166,10 +166,10 @@ You can also mix and match: with mixed precision quantization, different layers 
 
 | Bits | Memory | Quality | Use Case |
 | :---- | :---- | :---- | :---- |
-| 8-bit | 2x smaller | \~same | Server, no constraints |
+| 8-bit | 2x smaller | ~same | Server, no constraints |
 | 4-bit | 4x smaller | 1-3% drop | Server/Mobile/edge, QAT |
 | Sub 4-bit | 4x-8x smaller | 3% drop | Mobile/edge, best tradeoff, QAT |
-| Vector Quantization | 8x smaller | \~3% drop | Hardware accelerators, Apple Neural Engine |
+| Vector Quantization | 8x smaller | ~3% drop | Hardware accelerators, Apple Neural Engine |
 
 ## **Inference Optimization**
 
