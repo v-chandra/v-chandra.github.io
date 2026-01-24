@@ -3,13 +3,12 @@ layout: post
 title: "On-Device LLMs: State of the Union, 2026"
 date: 2026-01-24
 published: true
+excerpt: "<p>Three years ago, running a language model on a phone meant a toy demo. Today, billion-parameter models run in real time on flagship devices. This shift came not from faster chips alone, but from rethinking how we build, compress, and deploy models.</p>"
 ---
 
 **Vikas Chandra** and **Raghuraman Krishnamoorthi**
 
 Three years ago, running a language model on a phone meant a toy demo. Today, billion-parameter models run in real time on flagship devices. This shift came not from faster chips alone, but from rethinking how we build, compress, and deploy models.
-
-<!--more-->
 
 This post covers the latest: what's changed, what works, and where things are headed. We'll focus on techniques that have proven useful in practice, not just what looks good in papers.
 
