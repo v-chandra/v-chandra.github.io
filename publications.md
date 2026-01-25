@@ -213,6 +213,9 @@ permalink: /publications/
 
 ## Speech & Audio
 
+1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2601.12594)
+
 1. Breaking Down Power Barriers in On-Device Streaming ASR: Insights and Solutions,
 **NAACL (2025)** [[PDF]](https://aclanthology.org/2025.naacl-long.1.pdf)
 
@@ -321,6 +324,9 @@ permalink: /publications/
 <div id="chronological-view" class="publication-view active" markdown="1">
 
 ## 2026
+
+1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2601.12594)
 
 1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2601.05175)
