@@ -42,6 +42,9 @@ permalink: /publications/
 1. MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes,
 **ICLR (2026)** [[PDF]](https://arxiv.org/pdf/2509.24945)
 
+1. SpinQuant: LLM Quantization with Learned Rotations,
+**ICLR (2025)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
+
 1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers,
 **ACL (2025)** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf)
 
@@ -74,9 +77,6 @@ permalink: /publications/
 
 1. Agent-as-a-Judge: Evaluate Agents with Agents,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
-
-1. SpinQuant: LLM Quantization with Learned Rotations,
-**arXiv (2024)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
 
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
@@ -341,6 +341,9 @@ permalink: /publications/
 
 ## 2025
 
+1. SpinQuant: LLM Quantization with Learned Rotations,
+**ICLR** [[PDF]](https://www.arxiv.org/pdf/2405.16406)
+
 1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers,
 **ACL** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf)
 
@@ -446,9 +449,6 @@ permalink: /publications/
 
 1. An Introduction to Vision-Language Modeling,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2405.17247)
-
-1. SpinQuant: LLM Quantization with Learned Rotations,
-**arXiv** [[PDF]](https://www.arxiv.org/pdf/2405.16406)
 
 1. Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2405.15877)
