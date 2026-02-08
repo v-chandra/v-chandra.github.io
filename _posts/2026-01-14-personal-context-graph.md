@@ -4,7 +4,7 @@ title: "The Personal Context Graph: Why On-Device AI will capture the layer that
 date: 2026-01-14
 ---
 
-There's a growing consensus in AI that the next trillion-dollar platform won't be another chatbot or copilot. It'll be the system that captures ["context graphs"](https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/): the decision traces, exceptions, and precedents that currently live in Slack threads, deal desk conversations, and people's heads.
+There's a growing consensus in AI that the next trillion-dollar platform won't be another chatbot or copilot. It'll be the system that captures [context graphs](https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/): the decision traces, exceptions, and precedents that currently live in Slack threads, deal desk conversations, and people's heads.
 
 The thesis is compelling. But it's focused on the wrong scale.
 
