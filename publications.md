@@ -45,20 +45,20 @@ permalink: /publications/
 1. SpinQuant: LLM Quantization with Learned Rotations,
 **ICLR (2025)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
 
+1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
+**ICML (2024)**. [[PDF]](https://arxiv.org/pdf/2402.14905)
+
 1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers,
 **ACL (2025)** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf)
-
-1. Streamlining Language Models via Semantic Basis Analysis,
-**TMLR (2025)** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
 
 1. Target-Aware Language Modeling via Granular Data Sampling,
 **EMNLP (2024)**. [[PDF]](https://aclanthology.org/2024.emnlp-main.719.pdf)
 
-1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
-**ICML (2024)**. [[PDF]](https://arxiv.org/pdf/2402.14905)
-
 1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
 **ACL (2023)**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
+
+1. Streamlining Language Models via Semantic Basis Analysis,
+**TMLR (2025)** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
 
 1. Self-Vocabularizing Training for Neural Machine Translation,
 **NAACL SRW (2025)**. [[PDF]](https://aclanthology.org/2025.naacl-srw.16.pdf)
@@ -106,11 +106,11 @@ permalink: /publications/
 1. DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks,
 **ICML (2022)**. [[PDF]](https://arxiv.org/pdf/2206.00843.pdf)
 
-1. AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling,
-**CVPR (2021)**. [[PDF]](https://arxiv.org/pdf/2011.09011.pdf)
-
 1. Double-win Quant: Aggressively Winning Robustness of Quantized Deep Neural Networks via Random Precision Training and Inference,
 **ICML (2021)**. [[PDF]](http://proceedings.mlr.press/v139/fu21c/fu21c.pdf)
+
+1. AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling,
+**CVPR (2021)**. [[PDF]](https://arxiv.org/pdf/2011.09011.pdf)
 
 1. One weight bitwidth to rule them all,
 **Embedded Vision Workshop, ECCV (2020) (Best Paper Award)**. [[PDF]](https://arxiv.org/pdf/2008.09916.pdf)
@@ -151,6 +151,9 @@ permalink: /publications/
 
 1. DepthLM: Metric Depth from Vision Language Models,
 **ICLR (2026) (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2509.25413)
+
+1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
+**ICML (2025)**. [[PDF]](https://arxiv.org/pdf/2410.17434)
 
 1. EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything,
 **CVPR (2024) (Highlight)**. [[PDF]](https://arxiv.org/pdf/2312.00863)
@@ -193,9 +196,6 @@ permalink: /publications/
 
 1. Efficient Track Anything,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2411.18933)
-
-1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.17434)
 
 1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
@@ -344,14 +344,8 @@ permalink: /publications/
 1. SpinQuant: LLM Quantization with Learned Rotations,
 **ICLR** [[PDF]](https://www.arxiv.org/pdf/2405.16406)
 
-1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers,
-**ACL** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf)
-
-1. Breaking Down Power Barriers in On-Device Streaming ASR: Insights and Solutions,
-**NAACL** [[PDF]](https://aclanthology.org/2025.naacl-long.1.pdf)
-
-1. Streamlining Language Models via Semantic Basis Analysis,
-**TMLR** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
+1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
+**ICML** [[PDF]](https://arxiv.org/pdf/2410.17434)
 
 1. EdgeTAM: On-Device Track Anything Model,
 **CVPR** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_EdgeTAM_On-Device_Track_Anything_Model_CVPR_2025_paper.pdf)
@@ -361,6 +355,15 @@ permalink: /publications/
 
 1. APOLLO: SGD-like Memory, AdamW-level Performance,
 **MLSys** [[PDF]](https://proceedings.mlsys.org/paper_files/paper/2025/file/437bc4ccafd3fc6d4289bd10940be42b-Paper-Conference.pdf)
+
+1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers,
+**ACL** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf)
+
+1. Breaking Down Power Barriers in On-Device Streaming ASR: Insights and Solutions,
+**NAACL** [[PDF]](https://aclanthology.org/2025.naacl-long.1.pdf)
+
+1. Streamlining Language Models via Semantic Basis Analysis,
+**TMLR** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
 
 1. Self-Vocabularizing Training for Neural Machine Translation,
 **NAACL SRW** [[PDF]](https://aclanthology.org/2025.naacl-srw.16.pdf)
@@ -378,14 +381,14 @@ permalink: /publications/
 1. EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything,
 **CVPR (Highlight)** [[PDF]](https://arxiv.org/pdf/2312.00863)
 
-1. Target-Aware Language Modeling via Granular Data Sampling,
-**EMNLP** [[PDF]](https://aclanthology.org/2024.emnlp-main.719.pdf)
-
 1. MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases,
 **ICML** [[PDF]](https://arxiv.org/pdf/2402.14905)
 
 1. Taming Mode Collapse in Score Distillation for Text-to-3D Generation,
 **CVPR** [[PDF]](https://arxiv.org/pdf/2401.00909.pdf)
+
+1. Target-Aware Language Modeling via Granular Data Sampling,
+**EMNLP** [[PDF]](https://aclanthology.org/2024.emnlp-main.719.pdf)
 
 1. CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians,
 **ECCV** [[PDF]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04306.pdf)
@@ -438,9 +441,6 @@ permalink: /publications/
 1. Llama Guard 3-1B-INT4: Compact and Efficient Safeguard for Human-AI Conversations,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2411.17713)
 
-1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2410.17434)
-
 1. Agent-as-a-Judge: Evaluate Agents with Agents,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2410.10934)
 
@@ -457,14 +457,14 @@ permalink: /publications/
 
 ## 2023
 
-1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
-**ACL** [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
+1. Fast Point Cloud Generation with Straight Flows,
+**CVPR** [[PDF]](https://arxiv.org/pdf/2212.01747.pdf)
 
 1. XRBench: An Extended Reality (XR) Machine Learning Benchmark Suite for the Metaverse,
 **MLSys** [[PDF]](https://arxiv.org/pdf/2211.08675.pdf)
 
-1. Fast Point Cloud Generation with Straight Flows,
-**CVPR** [[PDF]](https://arxiv.org/pdf/2212.01747.pdf)
+1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
+**ACL** [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
 
 1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
@@ -494,11 +494,11 @@ permalink: /publications/
 1. NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,
 **ICLR** [[PDF]](https://openreview.net/pdf?id=Qaw16njk6L)
 
-1. Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,
-**CVPR** [[PDF]](http://128.84.4.34/pdf/2111.01236)
-
 1. DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks,
 **ICML** [[PDF]](https://arxiv.org/pdf/2206.00843.pdf)
+
+1. Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation,
+**CVPR** [[PDF]](http://128.84.4.34/pdf/2111.01236)
 
 1. Feature-Align Network with Knowledge Distillation for Efficient Denoising,
 **WACV** [[PDF]](https://openaccess.thecvf.com/content/WACV2022W/WACI/papers/Young_Feature-Align_Network_With_Knowledge_Distillation_for_Efficient_Denoising_WACVW_2022_paper.pdf)
@@ -528,14 +528,14 @@ permalink: /publications/
 1. AlphaNet: Improved Training of Supernet with Alpha-Divergence,
 **ICML (Long Presentation)** [[PDF]](https://arxiv.org/pdf/2102.07954.pdf)
 
+1. Double-win Quant: Aggressively Winning Robustness of Quantized Deep Neural Networks via Random Precision Training and Inference,
+**ICML** [[PDF]](http://proceedings.mlr.press/v139/fu21c/fu21c.pdf)
+
 1. AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling,
 **CVPR** [[PDF]](https://arxiv.org/pdf/2011.09011.pdf)
 
 1. KeepAugment: A Simple Information-Preserving Data Augmentation Approach,
 **CVPR** [[PDF]](https://arxiv.org/pdf/2011.11778.pdf)
-
-1. Double-win Quant: Aggressively Winning Robustness of Quantized Deep Neural Networks via Random Precision Training and Inference,
-**ICML** [[PDF]](http://proceedings.mlr.press/v139/fu21c/fu21c.pdf)
 
 1. Heterogeneous Dataflow Accelerators for Multi-DNN Workloads,
 **HPCA** [[PDF]](https://arxiv.org/pdf/1909.07437.pdf)
