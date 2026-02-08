@@ -57,6 +57,12 @@ permalink: /publications/
 1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
 **ACL (2023)**. [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
 
+1. Agent-as-a-Judge: Evaluate Agents with Agents,
+**ICML (2025)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
+
+1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
+**NeurIPS (2025)** [[PDF]](https://arxiv.org/pdf/2502.02631?)
+
 1. Streamlining Language Models via Semantic Basis Analysis,
 **TMLR (2025)** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
 
@@ -69,23 +75,17 @@ permalink: /publications/
 1. LLM-QAT: Data-Free Quantization Aware Training for Large Language Models,
 **ACL Findings (2024)**. [[PDF]](https://arxiv.org/pdf/2305.17888.pdf)
 
+1. Revisiting Sample Size Determination in Natural Language Understanding,
+**ACL Findings (2023)**. [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
+
 1. MobileLLM-Pro Technical Report,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2511.06719)
-
-1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
-**arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2502.02631?)
-
-1. Agent-as-a-Judge: Evaluate Agents with Agents,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
 
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
 
 1. MiniGPT-v2: Large Language Model As a Unified Interface for Vision-Language Multi-task Learning,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2310.09478.pdf)
-
-1. Revisiting Sample Size Determination in Natural Language Understanding,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
 
 ---
 
@@ -99,6 +99,9 @@ permalink: /publications/
 
 1. APOLLO: SGD-like Memory, AdamW-level Performance,
 **MLSys (2025)** [[PDF]](https://proceedings.mlsys.org/paper_files/paper/2025/file/437bc4ccafd3fc6d4289bd10940be42b-Paper-Conference.pdf)
+
+1. Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications,
+**TMLR (2025)**. [[PDF]](https://arxiv.org/pdf/2405.15877)
 
 1. NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training,
 **ICLR (2022)**. [[PDF]](https://openreview.net/pdf?id=Qaw16njk6L)
@@ -133,9 +136,6 @@ permalink: /publications/
 1. Llama Guard 3-1B-INT4: Compact and Efficient Safeguard for Human-AI Conversations,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2411.17713)
 
-1. Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.15877)
-
 1. Low-Rank+ Sparse Tensor Compression for Neural Networks,
 **arXiv (2021)**. [[PDF]](https://arxiv.org/pdf/2111.01697.pdf)
 
@@ -164,6 +164,9 @@ permalink: /publications/
 1. MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction,
 **ECCV (2025)** [[PDF]](https://arxiv.org/pdf/2402.12712)
 
+1. Efficient Track Anything,
+**ICCV (2025)**. [[PDF]](https://arxiv.org/pdf/2411.18933)
+
 1. CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians,
 **ECCV (2024)**. [[PDF]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04306.pdf)
 
@@ -191,14 +194,11 @@ permalink: /publications/
 1. EVRNet: Efficient Video Restoration on Edge Devices,
 **ACM MM (2021)**. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
 
+1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
+**AISTATS (2025)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
+
 1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2601.05175)
-
-1. Efficient Track Anything,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2411.18933)
-
-1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
 
 1. SqueezeSAM: User Friendly Mobile Interactive Segmentation,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2312.06736)
@@ -344,8 +344,14 @@ permalink: /publications/
 1. SpinQuant: LLM Quantization with Learned Rotations,
 **ICLR** [[PDF]](https://www.arxiv.org/pdf/2405.16406)
 
+1. Agent-as-a-Judge: Evaluate Agents with Agents,
+**ICML** [[PDF]](https://arxiv.org/pdf/2410.10934)
+
 1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
 **ICML** [[PDF]](https://arxiv.org/pdf/2410.17434)
+
+1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
+**NeurIPS** [[PDF]](https://arxiv.org/pdf/2502.02631?)
 
 1. EdgeTAM: On-Device Track Anything Model,
 **CVPR** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_EdgeTAM_On-Device_Track_Anything_Model_CVPR_2025_paper.pdf)
@@ -353,8 +359,14 @@ permalink: /publications/
 1. MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction,
 **ECCV** [[PDF]](https://arxiv.org/pdf/2402.12712)
 
+1. Efficient Track Anything,
+**ICCV** [[PDF]](https://arxiv.org/pdf/2411.18933)
+
 1. APOLLO: SGD-like Memory, AdamW-level Performance,
 **MLSys** [[PDF]](https://proceedings.mlsys.org/paper_files/paper/2025/file/437bc4ccafd3fc6d4289bd10940be42b-Paper-Conference.pdf)
+
+1. Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications,
+**TMLR** [[PDF]](https://arxiv.org/pdf/2405.15877)
 
 1. AutoMixer: Checkpoint Artifacts as Automatic Data Mixers,
 **ACL** [[PDF]](https://aclanthology.org/2025.acl-long.979.pdf)
@@ -365,14 +377,14 @@ permalink: /publications/
 1. Streamlining Language Models via Semantic Basis Analysis,
 **TMLR** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
 
+1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
+**AISTATS** [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
+
 1. Self-Vocabularizing Training for Neural Machine Translation,
 **NAACL SRW** [[PDF]](https://aclanthology.org/2025.naacl-srw.16.pdf)
 
 1. MobileLLM-Pro Technical Report,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2511.06719)
-
-1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2502.02631?)
 
 ---
 
@@ -432,26 +444,17 @@ permalink: /publications/
 1. PathFusion: Path-consistent Lidar-Camera Deep Feature Fusion,
 **3DV** [[PDF]](https://arxiv.org/pdf/2212.06244.pdf)
 
-1. Efficient Track Anything,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2411.18933)
-
 1. SyncFlow: Toward Temporally Aligned Joint Audio-Video Generation from Text,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2412.15220)
 
 1. Llama Guard 3-1B-INT4: Compact and Efficient Safeguard for Human-AI Conversations,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2411.17713)
 
-1. Agent-as-a-Judge: Evaluate Agents with Agents,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2410.10934)
-
 1. High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2407.03648)
 
 1. An Introduction to Vision-Language Modeling,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2405.17247)
-
-1. Basis Selection: Low-Rank Decomposition of Pretrained Large Language Models for Target Applications,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2405.15877)
 
 ---
 
@@ -466,14 +469,11 @@ permalink: /publications/
 1. Towards Zero-Shot Multilingual Transfer for Code-Switched Responses,
 **ACL** [[PDF]](https://aclanthology.org/2023.acl-long.417.pdf)
 
-1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
+1. Revisiting Sample Size Determination in Natural Language Understanding,
+**ACL Findings** [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
 
 1. MiniGPT-v2: Large Language Model As a Unified Interface for Vision-Language Multi-task Learning,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2310.09478.pdf)
-
-1. Revisiting Sample Size Determination in Natural Language Understanding,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
 
 1. Enhance Audio Generation Controllability Through Representation Similarity Regularization,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2309.08773.pdf)
