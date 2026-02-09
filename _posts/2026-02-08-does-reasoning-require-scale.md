@@ -3,7 +3,7 @@ layout: post
 title: "Does Reasoning Require Scale?"
 date: 2026-02-08
 published: true
-excerpt: "<p>MobileLLM-R1, a 950M parameter model, scores 15.5% on AIME. OLMo-2, 50% larger at 1.48B parameters, scores 0.6%. The gap comes from training methodology, not parameter count. The real open problem isn't whether small models can reason, but whether they can know when to stop trusting themselves.</p>"
+excerpt: "<p>A 950M parameter model solves more competition math problems than models nearly twice its size. The gap isn't parameter count, it's training methodology and inference strategy. But cheap reasoning shifts the bottleneck to reliability: small models can reason, they just don't know when they're wrong.</p>"
 ---
 
 <p align="center"><img src="/images/reasoning_scale.png" alt="Does Reasoning Require Scale?" width="85%"></p>
