@@ -8,11 +8,11 @@ excerpt: "<p>MobileLLM-R1, a 950M parameter model, scores 15.5% on AIME. OLMo-2,
 
 <p align="center"><img src="/images/reasoning_scale.png" alt="Does Reasoning Require Scale?" width="85%"></p>
 
-MobileLLM-R1, a 950M parameter model, scores 15.5% on AIME. OLMo-2, 50% larger at 1.48B parameters, scores 0.6%. SmolLM-2, larger still at 1.7B, scores 0.3%. The smallest model solves roughly 2 out of 15 competition math problems. The larger ones solve essentially none.
+[MobileLLM-R1](https://arxiv.org/abs/2509.24945), a 950M parameter model, scores 15.5% on AIME. [OLMo-2](https://arxiv.org/abs/2501.00656), 50% larger at 1.48B parameters, scores 0.6%. [SmolLM-2](https://arxiv.org/abs/2502.02737), larger still at 1.7B, scores 0.3%. The smallest model solves roughly 2 out of 15 competition math problems. The larger ones solve essentially none.
 
 Now, this comparison isn't quite fair. MobileLLM-R1 was specifically trained for reasoning through distillation; OLMo-2 and SmolLM-2 are general-purpose base models without that targeted approach. But that's exactly the point: the gap comes from training methodology, not parameter count. Whatever reasoning capability exists in large models can be compressed into much smaller ones more efficiently than the parameter ratio would suggest.
 
-This pattern isn't isolated. DeepSeek's distilled 32B model outperforms OpenAI's o1-mini on reasoning benchmarks despite being a fraction of the size. Research on test-time compute scaling shows that smaller models with proper search strategies can outperform models over 10x larger in FLOPs-matched evaluations. Parameter count and reasoning capability are far less correlated than most people assume.
+This pattern isn't isolated. [DeepSeek's distilled 32B model](https://arxiv.org/abs/2501.12948) outperforms OpenAI's o1-mini on reasoning benchmarks despite being a fraction of the size. Research on [test-time compute scaling](https://arxiv.org/abs/2408.03314) shows that smaller models with proper search strategies can outperform models over 10x larger in FLOPs-matched evaluations. Parameter count and reasoning capability are far less correlated than most people assume.
 
 ## What Actually Drives Reasoning
 
