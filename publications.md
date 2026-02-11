@@ -249,6 +249,9 @@ permalink: /publications/
 1. Towards Temporally Synchronized Visually Indicated Sounds Through Scale-Adapted Positional Embeddings,
 **NeurIPS Workshop (2024)**. [[PDF]](https://openreview.net/forum?id=HZq8Gakf6e)
 
+1. EgoAVU: Egocentric Audio-Visual Understanding,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2602.06139)
+
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2601.12594)
 
@@ -330,6 +333,9 @@ permalink: /publications/
 
 1. MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes,
 **ICLR** [[PDF]](https://arxiv.org/pdf/2509.24945)
+
+1. EgoAVU: Egocentric Audio-Visual Understanding,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2602.06139)
 
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2601.12594)
