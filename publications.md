@@ -194,11 +194,11 @@ permalink: /publications/
 1. EVRNet: Efficient Video Restoration on Edge Devices,
 **ACM MM (2021)**. [[PDF]](https://arxiv.org/pdf/2012.02228.pdf)
 
+1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
+**CVPR (2026)** [[PDF]](https://arxiv.org/pdf/2601.05175)
+
 1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
 **AISTATS (2025)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
-
-1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
-**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2601.05175)
 
 1. SqueezeSAM: User Friendly Mobile Interactive Segmentation,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2312.06736)
@@ -250,7 +250,7 @@ permalink: /publications/
 **NeurIPS Workshop (2024)**. [[PDF]](https://openreview.net/forum?id=HZq8Gakf6e)
 
 1. EgoAVU: Egocentric Audio-Visual Understanding,
-**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2602.06139)
+**CVPR (2026)** [[PDF]](https://arxiv.org/pdf/2602.06139)
 
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2601.12594)
@@ -335,13 +335,13 @@ permalink: /publications/
 **ICLR** [[PDF]](https://arxiv.org/pdf/2509.24945)
 
 1. EgoAVU: Egocentric Audio-Visual Understanding,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2602.06139)
+**CVPR** [[PDF]](https://arxiv.org/pdf/2602.06139)
+
+1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
+**CVPR** [[PDF]](https://arxiv.org/pdf/2601.05175)
 
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2601.12594)
-
-1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2601.05175)
 
 ---
 
