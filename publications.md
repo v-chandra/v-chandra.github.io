@@ -78,6 +78,9 @@ permalink: /publications/
 1. Revisiting Sample Size Determination in Natural Language Understanding,
 **ACL Findings (2023)**. [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
 
+1. MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2603.15954)
+
 1. MobileLLM-Pro Technical Report,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2511.06719)
 
@@ -342,6 +345,9 @@ permalink: /publications/
 
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2601.12594)
+
+1. MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2603.15954)
 
 ---
 
