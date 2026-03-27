@@ -136,6 +136,9 @@ permalink: /publications/
 1. Energy-Aware Neural Architecture Optimization With Splitting Steepest Descent,
 **NeurIPS Workshop (2019)**. [[PDF]](https://arxiv.org/pdf/1910.03103.pdf)
 
+1. Efficient Universal Perception Encoder,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2603.22387)
+
 1. Llama Guard 3-1B-INT4: Compact and Efficient Safeguard for Human-AI Conversations,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2411.17713)
 
@@ -348,6 +351,9 @@ permalink: /publications/
 
 1. MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2603.15954)
+
+1. Efficient Universal Perception Encoder,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2603.22387)
 
 ---
 
