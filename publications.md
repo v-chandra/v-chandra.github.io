@@ -84,6 +84,12 @@ permalink: /publications/
 1. MobileLLM-Pro Technical Report,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2511.06719)
 
+1. Neural Computers,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2604.06425)
+
+1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2603.18806)
+
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
 
@@ -354,6 +360,12 @@ permalink: /publications/
 
 1. Efficient Universal Perception Encoder,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2603.22387)
+
+1. Neural Computers,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2604.06425)
+
+1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2603.18806)
 
 ---
 
