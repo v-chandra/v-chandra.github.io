@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Efficient Video Intelligence in 2026"
-date: 2026-04-25
+date: 2026-04-26
 published: true
 excerpt: "<p>Five years ago, video understanding mostly meant action recognition on Kinetics-400 or short-clip captioning. Today, vision-language models reason about hour-long footage, on-device tracking segments any object at 16 FPS on a phone, and a single 100M-parameter encoder can match domain experts across image understanding, dense prediction, and VLM tasks.</p>"
 ---
