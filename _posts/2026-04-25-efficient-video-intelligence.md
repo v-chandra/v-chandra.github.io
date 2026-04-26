@@ -6,7 +6,7 @@ published: true
 excerpt: "<p>Five years ago, video understanding mostly meant action recognition on Kinetics-400 or short-clip captioning. Today, vision-language models reason about hour-long footage, on-device tracking segments any object at 16 FPS on a phone, and a single 100M-parameter encoder can match domain experts across image understanding, dense prediction, and VLM tasks.</p>"
 ---
 
-<p align="center"><img src="/images/video_intelligence.png" alt="Efficient Video Intelligence in 2026" width="85%"></p>
+<p align="center"><img src="/images/video_intelligence_color.png" alt="Efficient Video Intelligence in 2026" width="85%"></p>
 
 Five years ago, video understanding mostly meant action recognition on Kinetics-400 or short-clip captioning on MSR-VTT. Today, vision-language models reason about hour-long footage, on-device tracking segments any object at 16 FPS on a phone, and a single 100M-parameter encoder can match domain experts across image understanding, dense prediction, and VLM tasks. The shift came from rethinking what a video model needs to do, and from taking deployment constraints seriously.
 
