@@ -65,7 +65,7 @@ Most per-frame computation is redundant across adjacent frames, so memory-effici
 
 ## 3D and Depth from Video
 
-Segmentation and tracking handle 2D structure, but video also carries strong cues for 3D through parallax, motion, and temporal consistency. Extracting metric depth used to require specialized architectures.
+Segmentation and tracking handle 2D structure, but video also carries strong cues for 3D through parallax, motion, and temporal consistency. The methods that have stabilized are still predominantly image-based, applied per-frame or fed into multi-view reconstructors that treat sampled frames as views; truly temporal-video-native depth is an active but immature area. Extracting metric depth used to require specialized architectures.
 
 [DepthLM](https://arxiv.org/abs/2509.25413) (ICLR 2026 Oral) shows that a vision-language model with a 3B-parameter backbone, trained with standard text-based supervised fine-tuning and no architecture change, can match or beat dedicated specialists like DepthPro and Metric3Dv2 on metric depth benchmarks. The recipe has three pieces: visual prompting that renders markers on images rather than using text coordinate prompts; intrinsic-conditioned augmentation that unifies focal length to resolve camera ambiguity during training; and supervised fine-tuning on sparsely labeled images, with just one labeled pixel per training image.
 
