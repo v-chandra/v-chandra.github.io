@@ -112,7 +112,7 @@ Several lines have converged on related patterns. **Video-of-Thought** (Fei et a
 
 Video deployment splits into three tiers, and the choice between them is driven as much by economics, latency, and data residency as by raw model capability.
 
-**Cloud.** Frontier APIs like Gemini's video understanding endpoints and the multimodal flagships from OpenAI and Anthropic that accept image and audio (with video typically handled via frame sampling); specialized providers like Twelve Labs for indexing; hyperscaler services like AWS Rekognition Video, Azure Video Indexer, and Google Video Intelligence. The cloud tier gets you the largest models and the longest context with no client-side complexity, but it pays in round-trip latency (hundreds of milliseconds minimum), cost (10-100x edge inference per task), and bandwidth that breaks for continuous video at scale.
+**Cloud.** Frontier APIs like Gemini's video understanding endpoints and the multimodal flagships from OpenAI and Anthropic that accept image and audio (with video typically handled via frame sampling); specialized providers like Twelve Labs (Marengo embeddings and Pegasus video LLM with hour-scale temporal segmentation); hyperscaler services like AWS Rekognition Video, Azure Video Indexer, and Google Video Intelligence. The cloud tier gets you the largest models and the longest context with no client-side complexity, but it pays in round-trip latency (hundreds of milliseconds minimum), cost (10-100x edge inference per task), and bandwidth that breaks for continuous video at scale.
 
 **Edge servers.** On-prem GPU appliances or smart camera bridges, like Verkada's bridges, Hayden AI's on-device units, or industrial-inspection servers running Cosmos NIM. This tier trades the cloud's latency and data-residency problems for a hardware investment and a fragmented stack across customers, and supports mid-size models in the 3-30B range.
 
@@ -140,9 +140,9 @@ Several problems remain open across the stack.
 
 **Continuous-stream understanding at hour-plus durations.** LongVU and similar techniques assume batch mode where the whole video is available. Streaming mode, where the model has to maintain understanding while video keeps arriving, is much harder. Memory mechanisms, retrieval-augmented architectures, and incremental token compression are all in progress; none are solved cleanly.
 
-**Sparse-event detection.** Most production video is uninteresting. Finding the three frames out of 86,400 that matter, without paying for full inference on all 86,400, requires hierarchical attention or learned selection. This works for known event classes but not yet for "show me anything anomalous."
+**Sparse-event detection.** Most production video is uninteresting. Finding the three frames out of 86,400 that matter, without paying for full inference on all 86,400, requires hierarchical attention or learned selection. Schema-driven extraction over known classes now ships commercially (Twelve Labs' Pegasus pulls structured metadata against a customer-defined schema); open-set "show me anything anomalous" remains unsolved.
 
-**Cross-camera and cross-clip reasoning.** A surveillance ops team often wants to ask questions across many cameras and many time windows, but current video VLMs are single-stream. Multi-stream attention, cross-camera identity persistence, and global temporal reasoning are all open.
+**Cross-camera and cross-clip reasoning.** A surveillance ops team often wants to ask questions across many cameras and many time windows. Library-scale retrieval over indexed videos ships (Twelve Labs' Marengo ranks moments across a video library), but that is ANN retrieval over independent embeddings, not joint reasoning. Multi-stream attention, cross-camera identity persistence, and global temporal reasoning are all open.
 
 **Real-time sub-watt inference for AR glasses.** Today's mobile NPUs do tens of TOPS in tens of milliwatts, but an AR glass AI assistant needs to do continuous video understanding inside a 1-3W envelope that includes everything else the system runs. EUPE-style universal compact encoders, EdgeTAM-style efficient tracking, and aggressive quantization all help, but the gap to always-on Gemini-grade understanding on glasses is still 5-10x in compute efficiency.
 
@@ -150,7 +150,7 @@ Several problems remain open across the stack.
 
 **Audio-visual generative consistency.** When video models generate or edit content rather than understand it (out of scope for most of this post), keeping audio synchronized with visual events is unsolved, which is why most current text-to-video models ship without working audio.
 
-**Cross-modal grounding stability.** When a VLM is asked "what is the man in the blue shirt doing?", the model often fails not on language understanding but on grounding the referent across frames. Native multimodal training helps; specialized grounding objectives help further.
+**Cross-modal grounding stability.** When a VLM is asked "what is the man in the blue shirt doing?", the model often fails not on language understanding but on grounding the referent across frames. Timestamp-level grounding ships commercially (Pegasus localizes answers to start/end times); spatial grounding (bounding boxes, referent IDs across cuts) still requires bolting on SAM 2 or Grounding DINO.
 
 ## Closing
 
