@@ -228,6 +228,9 @@ permalink: /publications/
 1. Breaking Down Power Barriers in On-Device Streaming ASR: Insights and Solutions,
 **NAACL (2025)** [[PDF]](https://aclanthology.org/2025.naacl-long.1.pdf)
 
+1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
+**ICASSP (2026)** [[PDF]](https://arxiv.org/pdf/2601.12594)
+
 1. TODM: Train Once Deploy Many Efficient Supernet-Based RNN-T Compression For On-Device ASR Models,
 **ICASSP (2024)**. [[PDF]](https://arxiv.org/pdf/2309.01947)
 
@@ -257,9 +260,6 @@ permalink: /publications/
 
 1. Data Efficient Reflow for Few Step Audio Generation,
 **SLT (2024)**. [[PDF]](https://ieeexplore.ieee.org/document/10832165/)
-
-1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
-**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2601.12594)
 
 1. High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2407.03648)
@@ -363,7 +363,7 @@ permalink: /publications/
 **ICASSP (Oral Presentation)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11460380)
 
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2601.12594)
+**ICASSP** [[PDF]](https://arxiv.org/pdf/2601.12594)
 
 1. MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2603.15954)
