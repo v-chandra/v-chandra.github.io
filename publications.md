@@ -356,11 +356,11 @@ permalink: /publications/
 1. EgoAVU: Egocentric Audio-Visual Understanding,
 **CVPR (Highlight)** [[PDF]](https://arxiv.org/pdf/2602.06139)
 
-1. Exploring Audio Hallucination in Egocentric Video Understanding,
-**ICASSP (Oral)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11460380)
-
 1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
 **CVPR** [[PDF]](https://arxiv.org/pdf/2601.05175)
+
+1. Exploring Audio Hallucination in Egocentric Video Understanding,
+**ICASSP (Oral)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11460380)
 
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2601.12594)
