@@ -258,17 +258,8 @@ permalink: /publications/
 1. Data Efficient Reflow for Few Step Audio Generation,
 **SLT (2024)**. [[PDF]](https://ieeexplore.ieee.org/document/10832165/)
 
-1. Towards Temporally Synchronized Visually Indicated Sounds Through Scale-Adapted Positional Embeddings,
-**NeurIPS Workshop (2024)**. [[PDF]](https://openreview.net/forum?id=HZq8Gakf6e)
-
-1. EgoAVU: Egocentric Audio-Visual Understanding,
-**CVPR (2026) (Highlight)** [[PDF]](https://arxiv.org/pdf/2602.06139)
-
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2601.12594)
-
-1. SyncFlow: Toward Temporally Aligned Joint Audio-Video Generation from Text,
-**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2412.15220)
 
 1. High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2407.03648)
@@ -279,9 +270,6 @@ permalink: /publications/
 1. Exploring Speech Enhancement for Low-resource Speech Synthesis,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.10795.pdf)
 
-1. FoleyGen: Visually-Guided Audio Generation,
-**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.10537.pdf)
-
 1. LiCo-Net: Linearized Convolution Network for Hardware-efficient Keyword Spotting,
 **arXiv (2022)**. [[PDF]](https://arxiv.org/pdf/2211.04635.pdf)
 
@@ -290,6 +278,25 @@ permalink: /publications/
 
 1. Hello Edge: Keyword Spotting on Microcontrollers,
 **arXiv (2017)**. [[PDF]](https://arxiv.org/pdf/1711.07128.pdf)
+
+---
+
+## Audio-Visual / Egocentric
+
+1. EgoAVU: Egocentric Audio-Visual Understanding,
+**CVPR (2026) (Highlight)** [[PDF]](https://arxiv.org/pdf/2602.06139)
+
+1. Exploring Audio Hallucination in Egocentric Video Understanding,
+**ICASSP (2026) (Oral)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11460380)
+
+1. SyncFlow: Toward Temporally Aligned Joint Audio-Video Generation from Text,
+**arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2412.15220)
+
+1. Towards Temporally Synchronized Visually Indicated Sounds Through Scale-Adapted Positional Embeddings,
+**NeurIPS Workshop (2024)**. [[PDF]](https://openreview.net/forum?id=HZq8Gakf6e)
+
+1. FoleyGen: Visually-Guided Audio Generation,
+**arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2309.10537.pdf)
 
 ---
 
@@ -348,6 +355,9 @@ permalink: /publications/
 
 1. EgoAVU: Egocentric Audio-Visual Understanding,
 **CVPR (Highlight)** [[PDF]](https://arxiv.org/pdf/2602.06139)
+
+1. Exploring Audio Hallucination in Egocentric Video Understanding,
+**ICASSP (Oral)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11460380)
 
 1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
 **CVPR** [[PDF]](https://arxiv.org/pdf/2601.05175)
