@@ -287,7 +287,7 @@ permalink: /publications/
 **CVPR (2026) (Highlight)** [[PDF]](https://arxiv.org/pdf/2602.06139)
 
 1. Exploring Audio Hallucination in Egocentric Video Understanding,
-**ICASSP (2026) (Oral Presentation)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11460380)
+**ICASSP (2026) (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2604.23860)
 
 1. SyncFlow: Toward Temporally Aligned Joint Audio-Video Generation from Text,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2412.15220)
@@ -360,7 +360,7 @@ permalink: /publications/
 **CVPR** [[PDF]](https://arxiv.org/pdf/2601.05175)
 
 1. Exploring Audio Hallucination in Egocentric Video Understanding,
-**ICASSP (Oral Presentation)** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11460380)
+**ICASSP (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2604.23860)
 
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **ICASSP** [[PDF]](https://arxiv.org/pdf/2601.12594)
