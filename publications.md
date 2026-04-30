@@ -45,6 +45,9 @@ permalink: /publications/
 1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
 **ICML (2026)** [[PDF]](https://arxiv.org/pdf/2603.18806)
 
+1. MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale,
+**ACL Industry (2026) (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2603.15954)
+
 1. SpinQuant: LLM Quantization with Learned Rotations,
 **ICLR (2025)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
 
@@ -80,9 +83,6 @@ permalink: /publications/
 
 1. Revisiting Sample Size Determination in Natural Language Understanding,
 **ACL Findings (2023)**. [[PDF]](https://arxiv.org/pdf/2307.00374.pdf)
-
-1. MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale,
-**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2603.15954)
 
 1. MobileLLM-Pro Technical Report,
 **arXiv (2025)** [[PDF]](https://arxiv.org/pdf/2511.06719)
@@ -369,7 +369,7 @@ permalink: /publications/
 **ICASSP** [[PDF]](https://arxiv.org/pdf/2601.12594)
 
 1. MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2603.15954)
+**ACL Industry (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2603.15954)
 
 1. Efficient Universal Perception Encoder,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2603.22387)
