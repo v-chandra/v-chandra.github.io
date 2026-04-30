@@ -359,11 +359,11 @@ permalink: /publications/
 1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
 **CVPR** [[PDF]](https://arxiv.org/pdf/2601.05175)
 
-1. Exploring Audio Hallucination in Egocentric Video Understanding,
-**ICASSP (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2604.23860)
-
 1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
 **ICML** [[PDF]](https://arxiv.org/pdf/2603.18806)
+
+1. Exploring Audio Hallucination in Egocentric Video Understanding,
+**ICASSP (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2604.23860)
 
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **ICASSP** [[PDF]](https://arxiv.org/pdf/2601.12594)
