@@ -42,6 +42,9 @@ permalink: /publications/
 1. MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes,
 **ICLR (2026)** [[PDF]](https://arxiv.org/pdf/2509.24945)
 
+1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
+**ICML (2026)** [[PDF]](https://arxiv.org/pdf/2603.18806)
+
 1. SpinQuant: LLM Quantization with Learned Rotations,
 **ICLR (2025)**. [[PDF]](https://www.arxiv.org/pdf/2405.16406)
 
@@ -86,9 +89,6 @@ permalink: /publications/
 
 1. Neural Computers,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2604.06425)
-
-1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
-**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2603.18806)
 
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
@@ -362,6 +362,9 @@ permalink: /publications/
 1. Exploring Audio Hallucination in Egocentric Video Understanding,
 **ICASSP (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2604.23860)
 
+1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
+**ICML** [[PDF]](https://arxiv.org/pdf/2603.18806)
+
 1. SLAP: Scalable Language-Audio Pretraining with Variable-Duration Audio and Multi-Objective Training,
 **ICASSP** [[PDF]](https://arxiv.org/pdf/2601.12594)
 
@@ -373,9 +376,6 @@ permalink: /publications/
 
 1. Neural Computers,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2604.06425)
-
-1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2603.18806)
 
 ---
 
