@@ -212,6 +212,9 @@ permalink: /publications/
 1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
 **AISTATS (2025)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
 
+1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2604.08120)
+
 1. SqueezeSAM: User Friendly Mobile Interactive Segmentation,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2312.06736)
 
@@ -376,6 +379,9 @@ permalink: /publications/
 
 1. Neural Computers,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2604.06425)
+
+1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2604.08120)
 
 ---
 
