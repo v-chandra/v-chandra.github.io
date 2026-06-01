@@ -90,6 +90,9 @@ permalink: /publications/
 1. Neural Computers,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2604.06425)
 
+1. MobileMoE: Scaling On-Device Mixture of Experts,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2605.27358)
+
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
 
@@ -214,6 +217,9 @@ permalink: /publications/
 
 1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2604.08120)
+
+1. VLM3: Vision Language Models Are Native 3D Learners,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2605.30561)
 
 1. SqueezeSAM: User Friendly Mobile Interactive Segmentation,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2312.06736)
@@ -382,6 +388,12 @@ permalink: /publications/
 
 1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2604.08120)
+
+1. MobileMoE: Scaling On-Device Mixture of Experts,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2605.27358)
+
+1. VLM3: Vision Language Models Are Native 3D Learners,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2605.30561)
 
 ---
 
