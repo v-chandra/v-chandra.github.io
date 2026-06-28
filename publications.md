@@ -368,11 +368,11 @@ permalink: /publications/
 1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
 **CVPR** [[PDF]](https://arxiv.org/pdf/2601.05175)
 
-1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
-**ECCV** [[PDF]](https://arxiv.org/pdf/2604.08120)
-
 1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
 **ICML** [[PDF]](https://arxiv.org/pdf/2603.18806)
+
+1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
+**ECCV** [[PDF]](https://arxiv.org/pdf/2604.08120)
 
 1. Exploring Audio Hallucination in Egocentric Video Understanding,
 **ICASSP (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2604.23860)
