@@ -176,6 +176,9 @@ permalink: /publications/
 1. EdgeTAM: On-Device Track Anything Model,
 **CVPR (2025)** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_EdgeTAM_On-Device_Track_Anything_Model_CVPR_2025_paper.pdf)
 
+1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
+**ECCV (2026)** [[PDF]](https://arxiv.org/pdf/2604.08120)
+
 1. MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction,
 **ECCV (2025)** [[PDF]](https://arxiv.org/pdf/2402.12712)
 
@@ -214,9 +217,6 @@ permalink: /publications/
 
 1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
 **AISTATS (2025)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
-
-1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
-**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2604.08120)
 
 1. VLM3: Vision Language Models Are Native 3D Learners,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2605.30561)
@@ -368,6 +368,9 @@ permalink: /publications/
 1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
 **CVPR** [[PDF]](https://arxiv.org/pdf/2601.05175)
 
+1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
+**ECCV** [[PDF]](https://arxiv.org/pdf/2604.08120)
+
 1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
 **ICML** [[PDF]](https://arxiv.org/pdf/2603.18806)
 
@@ -385,9 +388,6 @@ permalink: /publications/
 
 1. Neural Computers,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2604.06425)
-
-1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2604.08120)
 
 1. MobileMoE: Scaling On-Device Mixture of Experts,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2605.27358)
