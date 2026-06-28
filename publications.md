@@ -362,14 +362,14 @@ permalink: /publications/
 1. MobileLLM-R1: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes,
 **ICLR** [[PDF]](https://arxiv.org/pdf/2509.24945)
 
+1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
+**ICML** [[PDF]](https://arxiv.org/pdf/2603.18806)
+
 1. EgoAVU: Egocentric Audio-Visual Understanding,
 **CVPR (Highlight)** [[PDF]](https://arxiv.org/pdf/2602.06139)
 
 1. VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice,
 **CVPR** [[PDF]](https://arxiv.org/pdf/2601.05175)
-
-1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
-**ICML** [[PDF]](https://arxiv.org/pdf/2603.18806)
 
 1. Small Vision-Language Models are Smart Compressors for Long Video Understanding,
 **ECCV** [[PDF]](https://arxiv.org/pdf/2604.08120)
