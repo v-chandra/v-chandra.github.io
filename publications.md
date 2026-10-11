@@ -93,6 +93,9 @@ permalink: /publications/
 1. Neural Computers,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2604.06425)
 
+1. RPRA: Predicting an LLM-Judge for Efficient but Performant Inference,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2604.12634)
+
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
 
@@ -270,6 +273,9 @@ permalink: /publications/
 1. Data Efficient Reflow for Few Step Audio Generation,
 **SLT (2024)**. [[PDF]](https://ieeexplore.ieee.org/document/10832165/)
 
+1. SongCraft: Unified Song Generation and Editing with Reconstructive Learning,
+**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2609.16315)
+
 1. High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2407.03648)
 
@@ -394,6 +400,12 @@ permalink: /publications/
 
 1. Neural Computers,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2604.06425)
+
+1. RPRA: Predicting an LLM-Judge for Efficient but Performant Inference,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2604.12634)
+
+1. SongCraft: Unified Song Generation and Editing with Reconstructive Learning,
+**arXiv** [[PDF]](https://arxiv.org/pdf/2609.16315)
 
 ---
 
