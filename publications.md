@@ -69,8 +69,8 @@ permalink: /publications/
 1. Agent-as-a-Judge: Evaluate Agents with Agents,
 **ICML (2025)**. [[PDF]](https://arxiv.org/pdf/2410.10934)
 
-1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
-**NeurIPS (2025)** [[PDF]](https://arxiv.org/pdf/2502.02631?)
+1. ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization,
+**NeurIPS (2025)** [[PDF]](https://arxiv.org/pdf/2502.02631)
 
 1. Streamlining Language Models via Semantic Basis Analysis,
 **TMLR (2025)** [[PDF]](https://openreview.net/pdf?id=qq7NNAXvuv)
@@ -414,8 +414,8 @@ permalink: /publications/
 1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
 **ICML** [[PDF]](https://arxiv.org/pdf/2410.17434)
 
-1. ParetoQ: Scaling Laws in Extremely Low-bit LLM Quantization,
-**NeurIPS** [[PDF]](https://arxiv.org/pdf/2502.02631?)
+1. ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization,
+**NeurIPS** [[PDF]](https://arxiv.org/pdf/2502.02631)
 
 1. EdgeTAM: On-Device Track Anything Model,
 **CVPR** [[PDF]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_EdgeTAM_On-Device_Track_Anything_Model_CVPR_2025_paper.pdf)
