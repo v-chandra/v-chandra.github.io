@@ -45,6 +45,9 @@ permalink: /publications/
 1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
 **ICML (2026)** [[PDF]](https://arxiv.org/pdf/2603.18806)
 
+1. MobileMoE: Scaling On-Device Mixture of Experts,
+**NeurIPS (2026)** [[PDF]](https://arxiv.org/pdf/2605.27358)
+
 1. MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale,
 **ACL Industry (2026) (Oral Presentation)** [[PDF]](https://arxiv.org/pdf/2603.15954)
 
@@ -89,9 +92,6 @@ permalink: /publications/
 
 1. Neural Computers,
 **arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2604.06425)
-
-1. MobileMoE: Scaling On-Device Mixture of Experts,
-**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2605.27358)
 
 1. An Introduction to Vision-Language Modeling,
 **arXiv (2024)**. [[PDF]](https://arxiv.org/pdf/2405.17247)
@@ -170,6 +170,9 @@ permalink: /publications/
 1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
 **ICML (2025)**. [[PDF]](https://arxiv.org/pdf/2410.17434)
 
+1. VLM3: Vision Language Models Are Native 3D Learners,
+**NeurIPS (2026)** [[PDF]](https://arxiv.org/pdf/2605.30561)
+
 1. EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything,
 **CVPR (2024) (Highlight)**. [[PDF]](https://arxiv.org/pdf/2312.00863)
 
@@ -217,9 +220,6 @@ permalink: /publications/
 
 1. SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity,
 **AISTATS (2025)**. [[PDF]](https://arxiv.org/pdf/2401.00604.pdf)
-
-1. VLM3: Vision Language Models Are Native 3D Learners,
-**arXiv (2026)** [[PDF]](https://arxiv.org/pdf/2605.30561)
 
 1. SqueezeSAM: User Friendly Mobile Interactive Segmentation,
 **arXiv (2023)**. [[PDF]](https://arxiv.org/pdf/2312.06736)
@@ -365,6 +365,12 @@ permalink: /publications/
 1. dTRPO: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models,
 **ICML** [[PDF]](https://arxiv.org/pdf/2603.18806)
 
+1. MobileMoE: Scaling On-Device Mixture of Experts,
+**NeurIPS** [[PDF]](https://arxiv.org/pdf/2605.27358)
+
+1. VLM3: Vision Language Models Are Native 3D Learners,
+**NeurIPS** [[PDF]](https://arxiv.org/pdf/2605.30561)
+
 1. EgoAVU: Egocentric Audio-Visual Understanding,
 **CVPR (Highlight)** [[PDF]](https://arxiv.org/pdf/2602.06139)
 
@@ -388,12 +394,6 @@ permalink: /publications/
 
 1. Neural Computers,
 **arXiv** [[PDF]](https://arxiv.org/pdf/2604.06425)
-
-1. MobileMoE: Scaling On-Device Mixture of Experts,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2605.27358)
-
-1. VLM3: Vision Language Models Are Native 3D Learners,
-**arXiv** [[PDF]](https://arxiv.org/pdf/2605.30561)
 
 ---
 
