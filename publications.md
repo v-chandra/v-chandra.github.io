@@ -170,7 +170,7 @@ permalink: /publications/
 1. LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,
 **ICML (2025)**. [[PDF]](https://arxiv.org/pdf/2410.17434)
 
-1. VLM3: Vision Language Models Are Native 3D Learners,
+1. VLM<sup>3</sup>: Vision Language Models Are Native 3D Learners,
 **NeurIPS (2026)** [[PDF]](https://arxiv.org/pdf/2605.30561)
 
 1. EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything,
@@ -368,7 +368,7 @@ permalink: /publications/
 1. MobileMoE: Scaling On-Device Mixture of Experts,
 **NeurIPS** [[PDF]](https://arxiv.org/pdf/2605.27358)
 
-1. VLM3: Vision Language Models Are Native 3D Learners,
+1. VLM<sup>3</sup>: Vision Language Models Are Native 3D Learners,
 **NeurIPS** [[PDF]](https://arxiv.org/pdf/2605.30561)
 
 1. EgoAVU: Egocentric Audio-Visual Understanding,
